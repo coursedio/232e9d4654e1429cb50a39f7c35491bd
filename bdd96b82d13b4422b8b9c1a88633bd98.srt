@@ -1,0 +1,361 @@
+WEBVTT
+
+1
+00:00:00.008 --> 00:00:03.003
+- Machine learning is one of the richest areas
+
+2
+00:00:03.003 --> 00:00:05.000
+in artificial intelligence.
+
+3
+00:00:05.000 --> 00:00:07.008
+That's because most companies are still struggling
+
+4
+00:00:07.008 --> 00:00:09.008
+on what to do with their data.
+
+5
+00:00:09.008 --> 00:00:12.000
+A lot of companies have gotten really good
+
+6
+00:00:12.000 --> 00:00:14.004
+at collecting massive amounts of data.
+
+7
+00:00:14.004 --> 00:00:17.000
+Now, the challenge is turning that data into something
+
+8
+00:00:17.000 --> 00:00:21.001
+that can help with accurate predictions and analysis.
+
+9
+00:00:21.001 --> 00:00:23.001
+The good news about machine learning is that
+
+10
+00:00:23.001 --> 00:00:25.002
+since it's been around for such a long time,
+
+11
+00:00:25.002 --> 00:00:27.008
+there are many different tools to choose from.
+
+12
+00:00:27.008 --> 00:00:29.003
+Companies and universities
+
+13
+00:00:29.003 --> 00:00:31.009
+have been developing tools for decades.
+
+14
+00:00:31.009 --> 00:00:35.008
+Most of them are easily available and free to use.
+
+15
+00:00:35.008 --> 00:00:38.002
+Now remember that machine learning is often the tool
+
+16
+00:00:38.002 --> 00:00:41.003
+you'll use to build many of your AI systems.
+
+17
+00:00:41.003 --> 00:00:43.008
+That means that you can use machine learning tools,
+
+18
+00:00:43.008 --> 00:00:47.004
+to build systems in natural language processing,
+
+19
+00:00:47.004 --> 00:00:51.006
+automated decision making, and even speech recognition.
+
+20
+00:00:51.006 --> 00:00:53.008
+I brought up my computer here again,
+
+21
+00:00:53.008 --> 00:00:55.007
+so let's start looking at some of these
+
+22
+00:00:55.007 --> 00:00:59.003
+great machine learning tools.
+
+23
+00:00:59.003 --> 00:01:01.002
+If you just started learning about machine learning,
+
+24
+00:01:01.002 --> 00:01:02.008
+one of the very best places to start
+
+25
+00:01:02.008 --> 00:01:05.006
+is with a project called Scikit-learn.
+
+26
+00:01:05.006 --> 00:01:08.002
+You can go to Scikit-learn here, you can see that
+
+27
+00:01:08.002 --> 00:01:12.001
+this is a machine learning implementation in Python.
+
+28
+00:01:12.001 --> 00:01:14.002
+It's built on a bunch of Python projects
+
+29
+00:01:14.002 --> 00:01:15.007
+and it's open source.
+
+30
+00:01:15.007 --> 00:01:17.001
+You can even use it in your projects
+
+31
+00:01:17.001 --> 00:01:21.000
+because it uses the very permissive BSD license.
+
+32
+00:01:21.000 --> 00:01:23.000
+The reason why this is such a good place to start,
+
+33
+00:01:23.000 --> 00:01:24.002
+is it's really powerful,
+
+34
+00:01:24.002 --> 00:01:26.004
+you can use a lot of machine learning algorithms
+
+35
+00:01:26.004 --> 00:01:29.001
+like classification and clustering.
+
+36
+00:01:29.001 --> 00:01:31.001
+There's even support for regression.
+
+37
+00:01:31.001 --> 00:01:32.006
+So this is a great project,
+
+38
+00:01:32.006 --> 00:01:34.009
+and you can actually use Scikit-learn
+
+39
+00:01:34.009 --> 00:01:37.005
+on top of cloud-based machine learning platforms
+
+40
+00:01:37.005 --> 00:01:40.009
+from Microsoft and IBM.
+
+41
+00:01:40.009 --> 00:01:42.004
+A lot of companies also use these
+
+42
+00:01:42.004 --> 00:01:45.000
+cloud-based machine learning services.
+
+43
+00:01:45.000 --> 00:01:48.000
+One of the big ones is Amazon.
+
+44
+00:01:48.000 --> 00:01:49.005
+And so this is machine learning service
+
+45
+00:01:49.005 --> 00:01:51.007
+that you can get on Amazon.
+
+46
+00:01:51.007 --> 00:01:53.006
+SageMaker is one of the big services
+
+47
+00:01:53.006 --> 00:01:56.001
+that they have on their machine learning platform.
+
+48
+00:01:56.001 --> 00:01:58.005
+As you can imagine, SageMaker connects up
+
+49
+00:01:58.005 --> 00:02:02.002
+with a lot of Amazon's other cloud-based services.
+
+50
+00:02:02.002 --> 00:02:04.009
+So that means you could upload your organizational data
+
+51
+00:02:04.009 --> 00:02:06.008
+to one of their cloud databases,
+
+52
+00:02:06.008 --> 00:02:10.000
+and then use SageMakers' machine learning algorithms
+
+53
+00:02:10.000 --> 00:02:12.006
+to analyze that data.
+
+54
+00:02:12.006 --> 00:02:14.007
+Another cloud-based machine learning service
+
+55
+00:02:14.007 --> 00:02:16.009
+is from Microsoft.
+
+56
+00:02:16.009 --> 00:02:20.001
+It's part of their Azure cloud services platform.
+
+57
+00:02:20.001 --> 00:02:23.001
+You can actually use their Scikit-learn framework,
+
+58
+00:02:23.001 --> 00:02:26.000
+on top of this Azure machine learning platform,
+
+59
+00:02:26.000 --> 00:02:27.008
+along with others.
+
+60
+00:02:27.008 --> 00:02:29.001
+You can also use something called
+
+61
+00:02:29.001 --> 00:02:31.004
+the Machine Learning Studio.
+
+62
+00:02:31.004 --> 00:02:33.002
+This tool allows you to upload data
+
+63
+00:02:33.002 --> 00:02:35.002
+and use drag and drop elements,
+
+64
+00:02:35.002 --> 00:02:36.008
+to analyze the data,
+
+65
+00:02:36.008 --> 00:02:39.002
+with their machine learning algorithms.
+
+66
+00:02:39.002 --> 00:02:40.009
+Another big cloud platform,
+
+67
+00:02:40.009 --> 00:02:43.004
+is IBM Watson Machine Learning.
+
+68
+00:02:43.004 --> 00:02:45.008
+And again, you can use a lot of the top frameworks
+
+69
+00:02:45.008 --> 00:02:47.005
+with this cloud platform.
+
+70
+00:02:47.005 --> 00:02:50.007
+You can use Scikit-learn and some other great platforms,
+
+71
+00:02:50.007 --> 00:02:52.008
+that you'll see later on.
+
+72
+00:02:52.008 --> 00:02:55.006
+This platform uses a concept they call pipelines.
+
+73
+00:02:55.006 --> 00:02:58.005
+You can pipeline in different data sources
+
+74
+00:02:58.005 --> 00:03:01.007
+and analyze the data using machine learning.
+
+75
+00:03:01.007 --> 00:03:04.006
+You can also stream data in from other sources.
+
+76
+00:03:04.006 --> 00:03:07.002
+Here's an example of how you can save a branch model,
+
+77
+00:03:07.002 --> 00:03:10.003
+from the statistics software package, SPSS,
+
+78
+00:03:10.003 --> 00:03:14.000
+using this Watson Machine Learning Platform.
+
+79
+00:03:14.000 --> 00:03:15.004
+There's a lot of variability
+
+80
+00:03:15.004 --> 00:03:17.003
+between these different services.
+
+81
+00:03:17.003 --> 00:03:20.007
+Amazon and Microsoft do classification and clustering,
+
+82
+00:03:20.007 --> 00:03:24.006
+while IBM focuses mostly on just classification.
+
+83
+00:03:24.006 --> 00:03:27.001
+Microsoft has a recommendation engine,
+
+84
+00:03:27.001 --> 00:03:29.001
+while the other two do not.
+
+85
+00:03:29.001 --> 00:03:32.006
+Amazon and IBM have built in machine learning algorithms,
+
+86
+00:03:32.006 --> 00:03:35.006
+but with Microsoft, you have to bring your own.
+
+87
+00:03:35.006 --> 00:03:37.003
+But most of them have the flexibility
+
+88
+00:03:37.003 --> 00:03:40.002
+to use frameworks like Scikit-learn.
+
+89
+00:03:40.002 --> 00:03:41.005
+And as you'll see later,
+
+90
+00:03:41.005 --> 00:03:45.002
+they all support the popular TensorFlow framework.
