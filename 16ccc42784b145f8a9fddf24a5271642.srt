@@ -1,0 +1,281 @@
+WEBVTT
+
+1
+00:00:00.008 --> 00:00:02.006
+- You can use machine learning algorithms
+
+2
+00:00:02.006 --> 00:00:04.007
+to find patterns in your data.
+
+3
+00:00:04.007 --> 00:00:08.001
+Then you label the data in a few different ways.
+
+4
+00:00:08.001 --> 00:00:09.008
+With supervised machine learning,
+
+5
+00:00:09.008 --> 00:00:11.007
+you create your own labels,
+
+6
+00:00:11.007 --> 00:00:16.002
+and then the machine classifies the data using these labels.
+
+7
+00:00:16.002 --> 00:00:18.004
+With unsupervised machine learning,
+
+8
+00:00:18.004 --> 00:00:21.000
+you let the machine create its own labels
+
+9
+00:00:21.000 --> 00:00:24.003
+and organize the data into clusters.
+
+10
+00:00:24.003 --> 00:00:27.009
+Microsoft, Amazon, and Google, along with others,
+
+11
+00:00:27.009 --> 00:00:32.002
+have created their own machine learning systems as services.
+
+12
+00:00:32.002 --> 00:00:33.001
+That way, you can simply
+
+13
+00:00:33.001 --> 00:00:35.003
+give these services access to your data,
+
+14
+00:00:35.003 --> 00:00:38.002
+and allow them to do the heavy processing.
+
+15
+00:00:38.002 --> 00:00:40.009
+You'll see a few of these later on.
+
+16
+00:00:40.009 --> 00:00:42.001
+But as you can imagine,
+
+17
+00:00:42.001 --> 00:00:44.006
+working with these machine learning algorithms
+
+18
+00:00:44.006 --> 00:00:46.005
+can get complicated.
+
+19
+00:00:46.005 --> 00:00:48.008
+It's also difficult to gather and maintain
+
+20
+00:00:48.008 --> 00:00:50.004
+all the data that you need
+
+21
+00:00:50.004 --> 00:00:53.004
+to help these systems make decisions.
+
+22
+00:00:53.004 --> 00:00:54.006
+So you might be thinking,
+
+23
+00:00:54.006 --> 00:00:56.000
+"Why would your organization want to
+
+24
+00:00:56.000 --> 00:00:57.009
+go through all this trouble?"
+
+25
+00:00:57.009 --> 00:01:00.003
+There's certainly value in labeling your data,
+
+26
+00:01:00.003 --> 00:01:03.008
+but how will your business benefit from this labeling?
+
+27
+00:01:03.008 --> 00:01:05.003
+For that, you have to remember
+
+28
+00:01:05.003 --> 00:01:08.002
+that your organizational data itself
+
+29
+00:01:08.002 --> 00:01:10.002
+doesn't have that much value.
+
+30
+00:01:10.002 --> 00:01:11.006
+But what does have value
+
+31
+00:01:11.006 --> 00:01:14.008
+are the insights that you gather from the data.
+
+32
+00:01:14.008 --> 00:01:17.002
+In fact, one of the most valuable insights
+
+33
+00:01:17.002 --> 00:01:18.006
+you can get from your data
+
+34
+00:01:18.006 --> 00:01:23.001
+is around helping your company to make better predictions.
+
+35
+00:01:23.001 --> 00:01:24.007
+So think of it this way.
+
+36
+00:01:24.007 --> 00:01:26.004
+You could take several steps
+
+37
+00:01:26.004 --> 00:01:29.001
+to better predict your customer's behavior.
+
+38
+00:01:29.001 --> 00:01:31.002
+You could send a representative from your company
+
+39
+00:01:31.002 --> 00:01:32.005
+to interview them.
+
+40
+00:01:32.005 --> 00:01:35.003
+You could gather information about their interests
+
+41
+00:01:35.003 --> 00:01:37.000
+and their friends' interests.
+
+42
+00:01:37.000 --> 00:01:39.007
+You could invite in all their friends and family,
+
+43
+00:01:39.007 --> 00:01:43.003
+and ask them questions in a large focus group.
+
+44
+00:01:43.003 --> 00:01:46.001
+After all that, you'd probably do a pretty good job
+
+45
+00:01:46.001 --> 00:01:48.007
+predicting your customer's behavior.
+
+46
+00:01:48.007 --> 00:01:53.000
+But taking these steps is very expensive and time-consuming.
+
+47
+00:01:53.000 --> 00:01:55.007
+In fact, if you did this for all your customers,
+
+48
+00:01:55.007 --> 00:01:58.000
+you'd probably go out of business.
+
+49
+00:01:58.000 --> 00:02:01.002
+On the other hand, what machine learning allows you to do
+
+50
+00:02:01.002 --> 00:02:04.005
+is to push down the cost of these predictions.
+
+51
+00:02:04.005 --> 00:02:08.002
+So you can still get the benefit of all these extra insights
+
+52
+00:02:08.002 --> 00:02:10.004
+without all the costs.
+
+53
+00:02:10.004 --> 00:02:12.007
+When prediction becomes incredibly cheap,
+
+54
+00:02:12.007 --> 00:02:14.002
+then the range of things
+
+55
+00:02:14.002 --> 00:02:16.002
+that your organization can accomplish
+
+56
+00:02:16.002 --> 00:02:18.005
+becomes much greater.
+
+57
+00:02:18.005 --> 00:02:21.005
+This might seem like a strange or abstract concept,
+
+58
+00:02:21.005 --> 00:02:24.003
+but many organizations are already benefiting
+
+59
+00:02:24.003 --> 00:02:26.008
+from better predictions.
+
+60
+00:02:26.008 --> 00:02:30.004
+A lot of websites are very good at making suggestions
+
+61
+00:02:30.004 --> 00:02:32.006
+about what you might want to purchase.
+
+62
+00:02:32.006 --> 00:02:34.006
+Streaming services like Netflix
+
+63
+00:02:34.006 --> 00:02:38.003
+are very good at recommending new shows.
+
+64
+00:02:38.003 --> 00:02:42.000
+This level of prediction used to be very costly,
+
+65
+00:02:42.000 --> 00:02:46.002
+but now machine learning is pushing down that cost.
+
+66
+00:02:46.002 --> 00:02:48.002
+So to get the most from machine learning,
+
+67
+00:02:48.002 --> 00:02:50.002
+think about how you can use prediction
+
+68
+00:02:50.002 --> 00:02:52.004
+to better serve your customers.
+
+69
+00:02:52.004 --> 00:02:54.005
+If you can better predict their behavior,
+
+70
+00:02:54.005 --> 00:02:58.001
+then you can do a much better job understanding their needs.
