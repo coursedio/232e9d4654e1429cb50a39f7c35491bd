@@ -1,0 +1,321 @@
+WEBVTT
+
+1
+00:00:00.005 --> 00:00:03.005
+- A few years ago, I was working for an organization
+
+2
+00:00:03.005 --> 00:00:06.008
+that handled tremendous amounts of credit card data.
+
+3
+00:00:06.008 --> 00:00:08.008
+Their entire business centered
+
+4
+00:00:08.008 --> 00:00:11.002
+around analyzing customer purchases
+
+5
+00:00:11.002 --> 00:00:15.000
+and recommending promotions based on their interests.
+
+6
+00:00:15.000 --> 00:00:17.002
+So when a customer logged in to pay their bill,
+
+7
+00:00:17.002 --> 00:00:19.007
+they had the option of adding a digital coupon
+
+8
+00:00:19.007 --> 00:00:21.000
+to their credit card.
+
+9
+00:00:21.000 --> 00:00:23.002
+So it might be a coupon for a restaurant.
+
+10
+00:00:23.002 --> 00:00:25.000
+If a customer adds the coupon,
+
+11
+00:00:25.000 --> 00:00:27.002
+they'll automatically get a small discount
+
+12
+00:00:27.002 --> 00:00:29.003
+when they try out the restaurant.
+
+13
+00:00:29.003 --> 00:00:30.004
+So if you think about it,
+
+14
+00:00:30.004 --> 00:00:33.007
+this company is analyzing massive amounts of data.
+
+15
+00:00:33.007 --> 00:00:35.008
+Each customer might have hundreds
+
+16
+00:00:35.008 --> 00:00:38.001
+of transactions every month.
+
+17
+00:00:38.001 --> 00:00:39.006
+The major credit card companies
+
+18
+00:00:39.006 --> 00:00:42.001
+have tens of millions of customers.
+
+19
+00:00:42.001 --> 00:00:44.003
+So that's billions of transactions
+
+20
+00:00:44.003 --> 00:00:47.003
+and several petabytes of data.
+
+21
+00:00:47.003 --> 00:00:49.007
+This type of processing wouldn't be practical
+
+22
+00:00:49.007 --> 00:00:51.005
+with just one system.
+
+23
+00:00:51.005 --> 00:00:54.009
+So this business created an artificial neural network
+
+24
+00:00:54.009 --> 00:00:57.003
+to analyze all this data.
+
+25
+00:00:57.003 --> 00:00:59.001
+And remember, the data on its own
+
+26
+00:00:59.001 --> 00:01:00.009
+isn't necessarily valuable.
+
+27
+00:01:00.009 --> 00:01:04.003
+It's just a list of mundane transactions attached
+
+28
+00:01:04.003 --> 00:01:06.002
+to an anonymous customer ID.
+
+29
+00:01:06.002 --> 00:01:10.005
+What is valuable is the analysis that the company provides.
+
+30
+00:01:10.005 --> 00:01:11.004
+In this case,
+
+31
+00:01:11.004 --> 00:01:14.003
+the credit card companies wanted a way to accurately predict
+
+32
+00:01:14.003 --> 00:01:16.009
+where customers would use their credit cards.
+
+33
+00:01:16.009 --> 00:01:19.002
+It's easy to see where a customer has been.
+
+34
+00:01:19.002 --> 00:01:20.006
+The real challenge is
+
+35
+00:01:20.006 --> 00:01:24.004
+to predict new places the customer might go.
+
+36
+00:01:24.004 --> 00:01:26.000
+That means that the credit card company
+
+37
+00:01:26.000 --> 00:01:28.003
+could sell promotions to other businesses,
+
+38
+00:01:28.003 --> 00:01:31.006
+and businesses would be happy to pay for these promotions
+
+39
+00:01:31.006 --> 00:01:34.001
+because they could get new customers.
+
+40
+00:01:34.001 --> 00:01:37.003
+Now, remember, there's two main types of machine learning.
+
+41
+00:01:37.003 --> 00:01:39.005
+There's supervised machine learning
+
+42
+00:01:39.005 --> 00:01:42.001
+and unsupervised machine learning.
+
+43
+00:01:42.001 --> 00:01:44.009
+Supervised machine learning classifies data
+
+44
+00:01:44.009 --> 00:01:48.003
+based on labels that humans create.
+
+45
+00:01:48.003 --> 00:01:50.006
+So you come up with different classifications,
+
+46
+00:01:50.006 --> 00:01:53.007
+and then the machine sorts them into groups.
+
+47
+00:01:53.007 --> 00:01:55.007
+With unsupervised machine learning,
+
+48
+00:01:55.007 --> 00:01:58.003
+the AI system creates its own groups.
+
+49
+00:01:58.003 --> 00:02:00.007
+Here, it clusters data together
+
+50
+00:02:00.007 --> 00:02:03.006
+based on very sophisticated patterns.
+
+51
+00:02:03.006 --> 00:02:06.004
+This credit card processing company actually used
+
+52
+00:02:06.004 --> 00:02:11.002
+a combination of both unsupervised and supervised learning.
+
+53
+00:02:11.002 --> 00:02:13.008
+The first thing it did was allow the machine
+
+54
+00:02:13.008 --> 00:02:16.003
+to create clusters of different customers
+
+55
+00:02:16.003 --> 00:02:19.002
+who had very similar spending habits.
+
+56
+00:02:19.002 --> 00:02:21.005
+So as a customer, you would be grouped together
+
+57
+00:02:21.005 --> 00:02:24.005
+with people who spend money in similar ways.
+
+58
+00:02:24.005 --> 00:02:27.003
+Then it looked for crossover businesses.
+
+59
+00:02:27.003 --> 00:02:28.009
+So let's say you used your credit card
+
+60
+00:02:28.009 --> 00:02:31.008
+to go to Mexican food restaurants, buy wine,
+
+61
+00:02:31.008 --> 00:02:34.000
+and visit Arizona.
+
+62
+00:02:34.000 --> 00:02:36.002
+The machine would cluster you together with someone
+
+63
+00:02:36.002 --> 00:02:39.008
+who also buys wine and travels to Arizona.
+
+64
+00:02:39.008 --> 00:02:41.003
+Then it would send you promotions
+
+65
+00:02:41.003 --> 00:02:44.001
+for a local Mexican food restaurant.
+
+66
+00:02:44.001 --> 00:02:45.007
+Once the machine learning algorithm
+
+67
+00:02:45.007 --> 00:02:48.002
+clustered customers into these groups,
+
+68
+00:02:48.002 --> 00:02:51.008
+the artificial neural network would then classify them
+
+69
+00:02:51.008 --> 00:02:54.005
+with different customer labels.
+
+70
+00:02:54.005 --> 00:02:57.001
+So in this case, they created labels for customers
+
+71
+00:02:57.001 --> 00:03:00.005
+who are more flexible and open to new experiences.
+
+72
+00:03:00.005 --> 00:03:02.003
+Then the other label were customers
+
+73
+00:03:02.003 --> 00:03:06.002
+who tended not to like new foods or restaurants.
+
+74
+00:03:06.002 --> 00:03:07.008
+This artificial neural network
+
+75
+00:03:07.008 --> 00:03:10.004
+using machine learning algorithms was able
+
+76
+00:03:10.004 --> 00:03:14.000
+to find new businesses that these customers might like.
+
+77
+00:03:14.000 --> 00:03:16.008
+Then they classified these customers into people
+
+78
+00:03:16.008 --> 00:03:19.005
+who were more likely to try new food.
+
+79
+00:03:19.005 --> 00:03:21.009
+By doing this, they were able to micro-target
+
+80
+00:03:21.009 --> 00:03:25.001
+the very best customers for these promotions.
