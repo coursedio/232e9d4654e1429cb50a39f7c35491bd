@@ -1,0 +1,141 @@
+WEBVTT
+
+1
+00:00:00.007 --> 00:00:02.000
+- I hope you've enjoyed this course
+
+2
+00:00:02.000 --> 00:00:04.000
+on artificial intelligence.
+
+3
+00:00:04.000 --> 00:00:04.008
+Throughout the course,
+
+4
+00:00:04.008 --> 00:00:08.000
+we covered some very high level AI concepts.
+
+5
+00:00:08.000 --> 00:00:09.007
+You've seen how machine learning
+
+6
+00:00:09.007 --> 00:00:12.009
+and artificial neural networks can help you see patterns
+
+7
+00:00:12.009 --> 00:00:14.009
+in massive datasets.
+
+8
+00:00:14.009 --> 00:00:17.009
+You've also seen how biometrics and natural language
+
+9
+00:00:17.009 --> 00:00:20.009
+can be broken down into regular data.
+
+10
+00:00:20.009 --> 00:00:23.004
+Once these AI systems can use this data,
+
+11
+00:00:23.004 --> 00:00:26.006
+it becomes just another form of pattern matching.
+
+12
+00:00:26.006 --> 00:00:28.006
+So that means you can create AI systems
+
+13
+00:00:28.006 --> 00:00:30.003
+that can read and write texts,
+
+14
+00:00:30.003 --> 00:00:31.007
+predict your behavior,
+
+15
+00:00:31.007 --> 00:00:34.003
+or identify you in a crowd.
+
+16
+00:00:34.003 --> 00:00:35.005
+Now that you've taken this course,
+
+17
+00:00:35.005 --> 00:00:37.002
+there's actually a few different ways
+
+18
+00:00:37.002 --> 00:00:40.000
+you can continue to learn about AI.
+
+19
+00:00:40.000 --> 00:00:43.001
+You can start to drill down into specific tools
+
+20
+00:00:43.001 --> 00:00:44.005
+so you can learn more about something
+
+21
+00:00:44.005 --> 00:00:47.009
+like natural language processing with Python.
+
+22
+00:00:47.009 --> 00:00:50.005
+But you could also choose to take a deeper dive
+
+23
+00:00:50.005 --> 00:00:53.001
+into any of the AI concepts.
+
+24
+00:00:53.001 --> 00:00:55.006
+There are plenty of courses on machine learning,
+
+25
+00:00:55.006 --> 00:00:56.005
+deep learning,
+
+26
+00:00:56.005 --> 00:00:59.000
+and artificial neural networks.
+
+27
+00:00:59.000 --> 00:01:02.005
+These AI tools continue to improve and evolve,
+
+28
+00:01:02.005 --> 00:01:05.002
+so please feel free to follow me on LinkedIn.
+
+29
+00:01:05.002 --> 00:01:07.007
+Here, I'll post about interesting new things
+
+30
+00:01:07.007 --> 00:01:10.004
+in the world of AI.
+
+31
+00:01:10.004 --> 00:01:12.003
+Thank you for watching this course.
+
+32
+00:01:12.003 --> 00:01:14.004
+I hope you continue learning about
+
+33
+00:01:14.004 --> 00:01:16.005
+this fascinating technology.
+
+34
+00:01:16.005 --> 00:01:18.000
+Then you can find creative ways
+
+35
+00:01:18.000 --> 00:01:21.001
+to explore and use artificial intelligence.
