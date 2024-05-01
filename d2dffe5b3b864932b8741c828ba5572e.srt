@@ -1,0 +1,269 @@
+WEBVTT
+
+1
+00:00:00.004 --> 00:00:03.000
+- So far, you've seen how natural language processing
+
+2
+00:00:03.000 --> 00:00:05.000
+can read and write text,
+
+3
+00:00:05.000 --> 00:00:07.007
+but more and more people are using NLP
+
+4
+00:00:07.007 --> 00:00:09.006
+with speech recognition.
+
+5
+00:00:09.006 --> 00:00:11.002
+This allows people to feel like
+
+6
+00:00:11.002 --> 00:00:13.006
+they're having a conversation.
+
+7
+00:00:13.006 --> 00:00:17.000
+Automated speech recognition, or ASR,
+
+8
+00:00:17.000 --> 00:00:19.007
+is closely related to natural language processing,
+
+9
+00:00:19.007 --> 00:00:21.009
+though they're not the same thing.
+
+10
+00:00:21.009 --> 00:00:23.005
+But they do work closely together
+
+11
+00:00:23.005 --> 00:00:25.004
+to improve the conversation.
+
+12
+00:00:25.004 --> 00:00:28.007
+Much like natural language processing,
+
+13
+00:00:28.007 --> 00:00:33.000
+AI systems view speech recognition as a data challenge.
+
+14
+00:00:33.000 --> 00:00:35.000
+When you speak, your vocal chords
+
+15
+00:00:35.000 --> 00:00:37.004
+create very precise sounds.
+
+16
+00:00:37.004 --> 00:00:40.002
+These sounds traveled through the air like ripples
+
+17
+00:00:40.002 --> 00:00:42.002
+on the surface of a pond.
+
+18
+00:00:42.002 --> 00:00:44.007
+Computer systems listen to these sounds
+
+19
+00:00:44.007 --> 00:00:48.007
+and convert them into an audio waveform.
+
+20
+00:00:48.007 --> 00:00:50.008
+If you've ever worked with an audio program,
+
+21
+00:00:50.008 --> 00:00:54.000
+then you've probably seen these audio waveforms.
+
+22
+00:00:54.000 --> 00:00:55.005
+They look like mountains
+
+23
+00:00:55.005 --> 00:00:58.003
+reflecting against a calm lake.
+
+24
+00:00:58.003 --> 00:01:00.001
+You'll notice peaks and dips
+
+25
+00:01:00.001 --> 00:01:02.008
+as the audio moves through time.
+
+26
+00:01:02.008 --> 00:01:04.009
+It turns out that audio waveforms
+
+27
+00:01:04.009 --> 00:01:07.006
+contain very accurate digital data,
+
+28
+00:01:07.006 --> 00:01:10.005
+even across different voices.
+
+29
+00:01:10.005 --> 00:01:13.003
+That means that if you hear me say something like
+
+30
+00:01:13.003 --> 00:01:15.009
+"This is an audio waveform,"
+
+31
+00:01:15.009 --> 00:01:18.001
+it will create a very similar pattern
+
+32
+00:01:18.001 --> 00:01:20.005
+to you saying the same thing.
+
+33
+00:01:20.005 --> 00:01:23.007
+It'll create very similar peaks and valleys.
+
+34
+00:01:23.007 --> 00:01:26.001
+Then a computer matches this audio data
+
+35
+00:01:26.001 --> 00:01:28.002
+with existing patterns.
+
+36
+00:01:28.002 --> 00:01:29.007
+But as you can imagine,
+
+37
+00:01:29.007 --> 00:01:31.008
+there's nearly an infinite number of ways
+
+38
+00:01:31.008 --> 00:01:35.007
+that people can mix and match words and phrases.
+
+39
+00:01:35.007 --> 00:01:38.005
+So AI systems often rely on something called
+
+40
+00:01:38.005 --> 00:01:41.006
+the Hidden Markov model.
+
+41
+00:01:41.006 --> 00:01:44.002
+This model helps computer scientists determine
+
+42
+00:01:44.002 --> 00:01:47.000
+the probability of your next set of words
+
+43
+00:01:47.000 --> 00:01:50.008
+based on what you've already said.
+
+44
+00:01:50.008 --> 00:01:51.009
+That means that the system will
+
+45
+00:01:51.009 --> 00:01:54.003
+look at the initial waveform,
+
+46
+00:01:54.003 --> 00:01:57.008
+then try to connect to the first few words.
+
+47
+00:01:57.008 --> 00:02:00.001
+So in this case, the system might hear
+
+48
+00:02:00.001 --> 00:02:04.009
+"This is an," then recognize that the word that follows
+
+49
+00:02:04.009 --> 00:02:07.003
+will probably be a noun.
+
+50
+00:02:07.003 --> 00:02:12.001
+People don't usually say something like "This is an eating."
+
+51
+00:02:12.001 --> 00:02:15.004
+Since the system thinks that the next word will be a noun,
+
+52
+00:02:15.004 --> 00:02:19.002
+it can actually lower the range of possibilities.
+
+53
+00:02:19.002 --> 00:02:22.004
+In this case, we will use the noun audio
+
+54
+00:02:22.004 --> 00:02:25.002
+and then the noun waveform.
+
+55
+00:02:25.002 --> 00:02:28.001
+That means that the earlier the system understands,
+
+56
+00:02:28.001 --> 00:02:30.003
+the easier it will be to recognize
+
+57
+00:02:30.003 --> 00:02:32.009
+your later words and phrases.
+
+58
+00:02:32.009 --> 00:02:34.006
+Now, remember that speech recognition
+
+59
+00:02:34.006 --> 00:02:38.004
+is still different from natural language processing.
+
+60
+00:02:38.004 --> 00:02:41.008
+Here, the AI system is simply trying to recognize
+
+61
+00:02:41.008 --> 00:02:44.005
+the sounds that you make while speaking.
+
+62
+00:02:44.005 --> 00:02:47.003
+In NLP, the AI system is actually trying
+
+63
+00:02:47.003 --> 00:02:49.004
+to understand human language.
+
+64
+00:02:49.004 --> 00:02:52.004
+That's why speech recognition has been around
+
+65
+00:02:52.004 --> 00:02:54.007
+so much longer than NLP.
+
+66
+00:02:54.007 --> 00:02:58.007
+It's much easier for a system to convert sound to text
+
+67
+00:02:58.007 --> 00:03:02.009
+than to understand the complexities of human language.
