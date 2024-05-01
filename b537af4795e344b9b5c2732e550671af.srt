@@ -1,0 +1,281 @@
+WEBVTT
+
+1
+00:00:00.005 --> 00:00:03.001
+- The real power of artificial neural networks
+
+2
+00:00:03.001 --> 00:00:06.002
+is their ability to supercharge machine learning.
+
+3
+00:00:06.002 --> 00:00:07.001
+In fact,
+
+4
+00:00:07.001 --> 00:00:09.003
+there's actually a relationship between the size
+
+5
+00:00:09.003 --> 00:00:13.003
+of the network and how well the system sees patterns.
+
+6
+00:00:13.003 --> 00:00:15.006
+Remember that artificial neural networks
+
+7
+00:00:15.006 --> 00:00:17.008
+have layers of neurons.
+
+8
+00:00:17.008 --> 00:00:20.009
+There's the input layer, the output layer,
+
+9
+00:00:20.009 --> 00:00:23.002
+and then the layers in between.
+
+10
+00:00:23.002 --> 00:00:25.001
+These layers in between
+
+11
+00:00:25.001 --> 00:00:28.006
+are typically called the hidden layers.
+
+12
+00:00:28.006 --> 00:00:31.004
+Some systems have many hidden layers
+
+13
+00:00:31.004 --> 00:00:33.001
+and this is usually called
+
+14
+00:00:33.001 --> 00:00:36.005
+a deep learning artificial neural network.
+
+15
+00:00:36.005 --> 00:00:40.001
+That's because the network is many layers deep.
+
+16
+00:00:40.001 --> 00:00:42.008
+Companies like Google have really embraced
+
+17
+00:00:42.008 --> 00:00:45.006
+deep learning artificial neural networks.
+
+18
+00:00:45.006 --> 00:00:49.000
+They use them to look for complex patterns.
+
+19
+00:00:49.000 --> 00:00:50.003
+You may have heard that Google
+
+20
+00:00:50.003 --> 00:00:52.004
+used their deep learning network
+
+21
+00:00:52.004 --> 00:00:56.001
+to teach a machine learning system how to play video games.
+
+22
+00:00:56.001 --> 00:00:58.008
+The system observed many hours of gameplay
+
+23
+00:00:58.008 --> 00:01:02.005
+and then looked for patterns on how to win the game.
+
+24
+00:01:02.005 --> 00:01:04.009
+Later, they used that same technology
+
+25
+00:01:04.009 --> 00:01:06.007
+to teach the system how to play
+
+26
+00:01:06.007 --> 00:01:10.001
+an ancient Chinese game called Go.
+
+27
+00:01:10.001 --> 00:01:12.001
+Go is thought to be so complex
+
+28
+00:01:12.001 --> 00:01:14.009
+that there is many variations in games
+
+29
+00:01:14.009 --> 00:01:17.008
+as there are atoms in the universe.
+
+30
+00:01:17.008 --> 00:01:20.002
+So clearly that's a lot of data.
+
+31
+00:01:20.002 --> 00:01:21.000
+At first,
+
+32
+00:01:21.000 --> 00:01:23.008
+the deep learning network observed thousands
+
+33
+00:01:23.008 --> 00:01:25.008
+of experts playing the game.
+
+34
+00:01:25.008 --> 00:01:27.000
+Then after awhile,
+
+35
+00:01:27.000 --> 00:01:30.003
+they programmed the system to play against itself.
+
+36
+00:01:30.003 --> 00:01:33.001
+It was able to discover many of the different patterns
+
+37
+00:01:33.001 --> 00:01:35.005
+that led to winning the game.
+
+38
+00:01:35.005 --> 00:01:37.000
+So you might be wondering why a company
+
+39
+00:01:37.000 --> 00:01:39.008
+like Google would spend so much time figuring out
+
+40
+00:01:39.008 --> 00:01:42.000
+how to play an ancient game.
+
+41
+00:01:42.000 --> 00:01:45.004
+The reason is that Google is using the same technology
+
+42
+00:01:45.004 --> 00:01:48.009
+to better understand their users' behavior.
+
+43
+00:01:48.009 --> 00:01:50.004
+So think of it this way.
+
+44
+00:01:50.004 --> 00:01:54.000
+If Google can use this system to master such a complex game,
+
+45
+00:01:54.000 --> 00:01:56.003
+then it's actually pretty easy to predict
+
+46
+00:01:56.003 --> 00:01:58.006
+whether you're going to buy a new car.
+
+47
+00:01:58.006 --> 00:02:02.005
+It uses the same underlying technology.
+
+48
+00:02:02.005 --> 00:02:04.006
+Earlier, we talked about how machine learning
+
+49
+00:02:04.006 --> 00:02:07.001
+can help you make better predictions.
+
+50
+00:02:07.001 --> 00:02:10.002
+If Google can predict with 95% certainty
+
+51
+00:02:10.002 --> 00:02:11.006
+that you'll buy a product,
+
+52
+00:02:11.006 --> 00:02:14.005
+then that has an incredible commercial value.
+
+53
+00:02:14.005 --> 00:02:16.007
+So if you're thinking about applying this technology
+
+54
+00:02:16.007 --> 00:02:18.002
+in your organization,
+
+55
+00:02:18.002 --> 00:02:20.003
+you have to consider a few things.
+
+56
+00:02:20.003 --> 00:02:22.000
+It's actually not difficult
+
+57
+00:02:22.000 --> 00:02:24.000
+to create an artificial neural network.
+
+58
+00:02:24.000 --> 00:02:25.006
+There's even a few free tools
+
+59
+00:02:25.006 --> 00:02:27.005
+that you'll see later in the course.
+
+60
+00:02:27.005 --> 00:02:29.008
+But what is difficult is getting the type
+
+61
+00:02:29.008 --> 00:02:33.005
+of data you'll need to fine tune your deep learning.
+
+62
+00:02:33.005 --> 00:02:37.002
+Now Google easily has access to petabytes of user data
+
+63
+00:02:37.002 --> 00:02:40.003
+but what type of data does your organization have?
+
+64
+00:02:40.003 --> 00:02:43.005
+What type of behavior would you like to predict?
+
+65
+00:02:43.005 --> 00:02:46.003
+Some of the best places to look are the parts
+
+66
+00:02:46.003 --> 00:02:49.004
+of your organization that run on gut level instinct.
+
+67
+00:02:49.004 --> 00:02:50.007
+If you have the right data,
+
+68
+00:02:50.007 --> 00:02:52.009
+then you might find that some of these systems
+
+69
+00:02:52.009 --> 00:02:55.009
+actually do a better job predicting than even some
+
+70
+00:02:55.009 --> 00:02:58.006
+of your most experienced employees.
