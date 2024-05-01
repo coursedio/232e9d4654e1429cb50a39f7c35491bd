@@ -1,0 +1,281 @@
+WEBVTT
+
+1
+00:00:00.005 --> 00:00:03.007
+- So we know that Machine Learning is like a giant label gun
+
+2
+00:00:03.007 --> 00:00:07.000
+that classifies tremendous amounts of data.
+
+3
+00:00:07.000 --> 00:00:09.009
+But to classify machine learning algorithms
+
+4
+00:00:09.009 --> 00:00:12.005
+still rely on humans to identify
+
+5
+00:00:12.005 --> 00:00:14.007
+what it is they're labeling.
+
+6
+00:00:14.007 --> 00:00:16.009
+This is typically called training
+
+7
+00:00:16.009 --> 00:00:19.000
+your machine learning algorithms.
+
+8
+00:00:19.000 --> 00:00:21.001
+So let's imagine you start a business
+
+9
+00:00:21.001 --> 00:00:23.004
+where you sort through tons of trash
+
+10
+00:00:23.004 --> 00:00:26.006
+to separate out the recyclable material.
+
+11
+00:00:26.006 --> 00:00:28.008
+From a machine learning perspective,
+
+12
+00:00:28.008 --> 00:00:31.008
+this is a very complicated data challenge.
+
+13
+00:00:31.008 --> 00:00:35.001
+There might be thousands of pieces of garbage
+
+14
+00:00:35.001 --> 00:00:36.007
+going down the conveyor belt
+
+15
+00:00:36.007 --> 00:00:38.005
+and the machine learning algorithm
+
+16
+00:00:38.005 --> 00:00:41.003
+needs to identify each piece.
+
+17
+00:00:41.003 --> 00:00:42.008
+From a data perspective,
+
+18
+00:00:42.008 --> 00:00:46.003
+this is a pretty standard classification problem.
+
+19
+00:00:46.003 --> 00:00:50.005
+A human operator trains the system on what's recyclable.
+
+20
+00:00:50.005 --> 00:00:54.005
+So in this case, you'll make piles of aluminum, plastic,
+
+21
+00:00:54.005 --> 00:00:56.008
+cardboard, and paper.
+
+22
+00:00:56.008 --> 00:00:58.008
+Then you'd make piles of food waste
+
+23
+00:00:58.008 --> 00:01:00.009
+or plastic bags.
+
+24
+00:01:00.009 --> 00:01:04.007
+These different piles would be called the data training set
+
+25
+00:01:04.007 --> 00:01:06.005
+and the machine learning algorithm
+
+26
+00:01:06.005 --> 00:01:10.002
+would look for patterns in the recyclable materials.
+
+27
+00:01:10.002 --> 00:01:13.004
+That way could correctly label future trash
+
+28
+00:01:13.004 --> 00:01:15.003
+as it's coming down the belt.
+
+29
+00:01:15.003 --> 00:01:19.003
+In a sense it's learning what's recyclable.
+
+30
+00:01:19.003 --> 00:01:21.006
+Now, remember you need a human operator
+
+31
+00:01:21.006 --> 00:01:25.003
+to create those first piles of recyclable material.
+
+32
+00:01:25.003 --> 00:01:29.003
+So this is typically called supervised machine learning
+
+33
+00:01:29.003 --> 00:01:31.009
+and operators supervises the machine
+
+34
+00:01:31.009 --> 00:01:33.008
+and tells the algorithms
+
+35
+00:01:33.008 --> 00:01:37.009
+when they're misidentifying something as recyclable.
+
+36
+00:01:37.009 --> 00:01:40.004
+For now, this is the most popular way
+
+37
+00:01:40.004 --> 00:01:44.002
+that machine learning algorithms classify data.
+
+38
+00:01:44.002 --> 00:01:46.001
+But there's another way for these machine learning
+
+39
+00:01:46.001 --> 00:01:48.006
+algorithms to work with data,
+
+40
+00:01:48.006 --> 00:01:52.002
+it's called unsupervised machine learning.
+
+41
+00:01:52.002 --> 00:01:55.006
+Unsupervised machine learning doesn't classify data,
+
+42
+00:01:55.006 --> 00:01:59.004
+instead it works to create clusters of data.
+
+43
+00:01:59.004 --> 00:02:02.000
+So imagine that a human operator doesn't create
+
+44
+00:02:02.000 --> 00:02:04.002
+those first training sets,
+
+45
+00:02:04.002 --> 00:02:08.000
+it just asks the machine to identify patterns in the data.
+
+46
+00:02:08.000 --> 00:02:11.006
+That means that the unsupervised machine learning algorithm
+
+47
+00:02:11.006 --> 00:02:15.000
+would look at all the trash coming down the conveyor belt.
+
+48
+00:02:15.000 --> 00:02:17.002
+It wouldn't get those first piles
+
+49
+00:02:17.002 --> 00:02:20.002
+sorted by recyclables in waste.
+
+50
+00:02:20.002 --> 00:02:23.003
+Then it would cluster the trash into different groups
+
+51
+00:02:23.003 --> 00:02:26.001
+that make sense to the algorithm.
+
+52
+00:02:26.001 --> 00:02:27.003
+There's no training set,
+
+53
+00:02:27.003 --> 00:02:30.001
+so the system creates its own groups.
+
+54
+00:02:30.001 --> 00:02:33.008
+It might make piles of garbage that are all the same color,
+
+55
+00:02:33.008 --> 00:02:35.006
+or it might create piles of garbage
+
+56
+00:02:35.006 --> 00:02:37.008
+based on the size of the material.
+
+57
+00:02:37.008 --> 00:02:39.009
+It might even create piles of trash
+
+58
+00:02:39.009 --> 00:02:44.005
+based on some qualities that humans can't perceive.
+
+59
+00:02:44.005 --> 00:02:46.008
+As you can imagine, unsupervised learning
+
+60
+00:02:46.008 --> 00:02:49.006
+wouldn't be very useful for this recycling plant,
+
+61
+00:02:49.006 --> 00:02:51.000
+but it might be useful for something
+
+62
+00:02:51.000 --> 00:02:53.000
+like a pharmaceutical company
+
+63
+00:02:53.000 --> 00:02:55.009
+or an automated stock trading system.
+
+64
+00:02:55.009 --> 00:02:58.003
+You might want to find patterns that humans
+
+65
+00:02:58.003 --> 00:03:00.003
+haven't yet identified.
+
+66
+00:03:00.003 --> 00:03:03.009
+It might even lead to discovery of a new drug.
+
+67
+00:03:03.009 --> 00:03:06.002
+So if you're thinking about using supervised
+
+68
+00:03:06.002 --> 00:03:08.005
+machine learning, start by identifying
+
+69
+00:03:08.005 --> 00:03:10.005
+what data you'd like to classify,
+
+70
+00:03:10.005 --> 00:03:14.002
+then try to gather up some massive data sets.
