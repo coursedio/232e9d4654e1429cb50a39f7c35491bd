@@ -1,0 +1,309 @@
+WEBVTT
+
+1
+00:00:00.007 --> 00:00:03.008
+- In 2016, the famous computer scientist,
+
+2
+00:00:03.008 --> 00:00:05.001
+Geoffrey Hinton said,
+
+3
+00:00:05.001 --> 00:00:06.002
+"It's quite obvious
+
+4
+00:00:06.002 --> 00:00:09.003
+that we should stop training radiologists."
+
+5
+00:00:09.003 --> 00:00:11.003
+He believed that machine learning systems
+
+6
+00:00:11.003 --> 00:00:14.003
+could make better decisions when looking at x-rays.
+
+7
+00:00:14.003 --> 00:00:17.008
+He thought that these systems would quickly overtake humans,
+
+8
+00:00:17.008 --> 00:00:21.001
+so there was no need to train radiologists.
+
+9
+00:00:21.001 --> 00:00:23.008
+Now, we've seen that these systems can run in a few ways.
+
+10
+00:00:23.008 --> 00:00:25.005
+Through supervised machine learning
+
+11
+00:00:25.005 --> 00:00:28.005
+or unsupervised machine learning.
+
+12
+00:00:28.005 --> 00:00:30.001
+For supervised machine learning,
+
+13
+00:00:30.001 --> 00:00:32.007
+you teach the system to see the pattern.
+
+14
+00:00:32.007 --> 00:00:34.006
+So you might have radiologists
+
+15
+00:00:34.006 --> 00:00:36.006
+gather thousands of x-rays
+
+16
+00:00:36.006 --> 00:00:39.001
+where a patient needed back surgery.
+
+17
+00:00:39.001 --> 00:00:41.000
+This would be your training set.
+
+18
+00:00:41.000 --> 00:00:44.004
+Then you'd feed it into the machine learning algorithm.
+
+19
+00:00:44.004 --> 00:00:46.003
+Once the system was well trained,
+
+20
+00:00:46.003 --> 00:00:48.007
+then you can have it look through new x-rays.
+
+21
+00:00:48.007 --> 00:00:51.000
+So it would try to match the patterns.
+
+22
+00:00:51.000 --> 00:00:52.005
+Then it would make a decision
+
+23
+00:00:52.005 --> 00:00:55.008
+about whether this patient needs back surgery.
+
+24
+00:00:55.008 --> 00:00:58.004
+This kind of automated decision-making system
+
+25
+00:00:58.004 --> 00:01:00.005
+would make split-second decisions
+
+26
+00:01:00.005 --> 00:01:02.006
+based on the machine learning algorithm's
+
+27
+00:01:02.006 --> 00:01:05.003
+advanced pattern matching.
+
+28
+00:01:05.003 --> 00:01:06.009
+The advantages of this type of system
+
+29
+00:01:06.009 --> 00:01:09.008
+is it can make instantaneous decisions.
+
+30
+00:01:09.008 --> 00:01:13.001
+It might even be included as part of the x-ray machine.
+
+31
+00:01:13.001 --> 00:01:15.001
+Also, if you believe professor Hinton,
+
+32
+00:01:15.001 --> 00:01:17.005
+it might be much more accurate.
+
+33
+00:01:17.005 --> 00:01:19.005
+The machine could see tiny abnormalities
+
+34
+00:01:19.005 --> 00:01:22.005
+that it would be difficult or impossible
+
+35
+00:01:22.005 --> 00:01:25.003
+for a human radiologist to identify.
+
+36
+00:01:25.003 --> 00:01:28.000
+You could also use unsupervised machine learning.
+
+37
+00:01:28.000 --> 00:01:29.008
+Here you would let the machine decide
+
+38
+00:01:29.008 --> 00:01:33.000
+how to cluster together different x-rays.
+
+39
+00:01:33.000 --> 00:01:35.006
+Then a technician could look at these clusters
+
+40
+00:01:35.006 --> 00:01:38.007
+and try to identify any abnormalities.
+
+41
+00:01:38.007 --> 00:01:40.002
+If you use this approach,
+
+42
+00:01:40.002 --> 00:01:42.000
+the machine learning algorithm
+
+43
+00:01:42.000 --> 00:01:44.006
+might find diseases or disorders
+
+44
+00:01:44.006 --> 00:01:47.002
+that haven't even been discovered.
+
+45
+00:01:47.002 --> 00:01:48.006
+But most of the work in this area
+
+46
+00:01:48.006 --> 00:01:51.003
+has been using supervised machine learning.
+
+47
+00:01:51.003 --> 00:01:53.008
+AI researchers have a list of disorders,
+
+48
+00:01:53.008 --> 00:01:55.003
+and then they create training sets
+
+49
+00:01:55.003 --> 00:01:58.002
+collected by human radiologists.
+
+50
+00:01:58.002 --> 00:02:00.009
+The system then uses automated decision-making
+
+51
+00:02:00.009 --> 00:02:03.006
+to come up with a recommendation.
+
+52
+00:02:03.006 --> 00:02:06.002
+So what do you think of professor Hinton's idea?
+
+53
+00:02:06.002 --> 00:02:09.004
+Would you prefer to have your x-ray viewed by a radiologist
+
+54
+00:02:09.004 --> 00:02:12.000
+or by a machine learning algorithm?
+
+55
+00:02:12.000 --> 00:02:12.008
+If you think about it,
+
+56
+00:02:12.008 --> 00:02:16.001
+there's a downside to replacing human radiologists
+
+57
+00:02:16.001 --> 00:02:19.000
+with an automated decision-making system.
+
+58
+00:02:19.000 --> 00:02:20.009
+Supervised machine learning systems
+
+59
+00:02:20.009 --> 00:02:25.005
+require human experts to create the initial training set.
+
+60
+00:02:25.005 --> 00:02:27.005
+If you stop training radiologists,
+
+61
+00:02:27.005 --> 00:02:30.007
+then there won't be that level of human expertise
+
+62
+00:02:30.007 --> 00:02:32.008
+to help train the system.
+
+63
+00:02:32.008 --> 00:02:34.009
+This might be fine if there are no new diseases
+
+64
+00:02:34.009 --> 00:02:35.009
+or disorders,
+
+65
+00:02:35.009 --> 00:02:39.001
+but what if the machine finds a new abnormality?
+
+66
+00:02:39.001 --> 00:02:41.004
+Remember that supervised machine learning systems
+
+67
+00:02:41.004 --> 00:02:45.001
+have trouble when they see something completely new.
+
+68
+00:02:45.001 --> 00:02:47.004
+You could also use unsupervised machine learning,
+
+69
+00:02:47.004 --> 00:02:48.008
+but then there's the risk
+
+70
+00:02:48.008 --> 00:02:50.008
+that if the system clusters together
+
+71
+00:02:50.008 --> 00:02:52.003
+different abnormalities,
+
+72
+00:02:52.003 --> 00:02:54.006
+there won't be an experienced radiologist
+
+73
+00:02:54.006 --> 00:02:56.008
+to identify the disease.
+
+74
+00:02:56.008 --> 00:02:58.006
+So you can see that there are a lot of different ways
+
+75
+00:02:58.006 --> 00:03:01.009
+to use machine learning for automated decision making.
+
+76
+00:03:01.009 --> 00:03:03.000
+The key is figuring out
+
+77
+00:03:03.000 --> 00:03:06.009
+how much control you want to leave in the hands of the system.
