@@ -1,0 +1,265 @@
+WEBVTT
+
+1
+00:00:00.007 --> 00:00:01.007
+- It might seem like a lot of
+
+2
+00:00:01.007 --> 00:00:04.001
+these artificial intelligence tools are trying
+
+3
+00:00:04.001 --> 00:00:06.002
+to accomplish very different things.
+
+4
+00:00:06.002 --> 00:00:09.006
+Natural language processing converts the human language
+
+5
+00:00:09.006 --> 00:00:13.003
+into something that a computer could understand.
+
+6
+00:00:13.003 --> 00:00:16.007
+Automated decision-making makes analytical decisions
+
+7
+00:00:16.007 --> 00:00:19.005
+based on historical trends and data.
+
+8
+00:00:19.005 --> 00:00:23.005
+But the reality is from the perspective of an AI system,
+
+9
+00:00:23.005 --> 00:00:27.000
+these tools in concepts are actually very similar.
+
+10
+00:00:27.000 --> 00:00:29.003
+With both of these systems,
+
+11
+00:00:29.003 --> 00:00:33.001
+you're looking for patterns in massive datasets.
+
+12
+00:00:33.001 --> 00:00:35.004
+With natural language processing,
+
+13
+00:00:35.004 --> 00:00:38.000
+the system is looking for patterns in the way
+
+14
+00:00:38.000 --> 00:00:39.007
+that people communicate.
+
+15
+00:00:39.007 --> 00:00:42.007
+Then it looks at a massive database of similar patterns
+
+16
+00:00:42.007 --> 00:00:45.001
+to see if it can find a match.
+
+17
+00:00:45.001 --> 00:00:46.003
+With AI decision making,
+
+18
+00:00:46.003 --> 00:00:50.000
+the system is looking for patterns of previous transactions.
+
+19
+00:00:50.000 --> 00:00:51.009
+So when a flight gets canceled,
+
+20
+00:00:51.009 --> 00:00:54.009
+the system knows that when this happens,
+
+21
+00:00:54.009 --> 00:00:57.004
+they reroute to a different flight.
+
+22
+00:00:57.004 --> 00:01:01.003
+Both of these systems rely on massive datasets
+
+23
+00:01:01.003 --> 00:01:04.005
+and sophisticated pattern matching.
+
+24
+00:01:04.005 --> 00:01:08.009
+That's why both of these systems use very similar concepts
+
+25
+00:01:08.009 --> 00:01:11.001
+to accomplish these tasks.
+
+26
+00:01:11.001 --> 00:01:14.003
+The most popular way to develop these systems
+
+27
+00:01:14.003 --> 00:01:17.000
+is by using machine learning.
+
+28
+00:01:17.000 --> 00:01:20.004
+Machine learning is essentially a set of algorithms
+
+29
+00:01:20.004 --> 00:01:26.002
+that helps AI systems see patterns in massive data sets.
+
+30
+00:01:26.002 --> 00:01:28.001
+Then the machine learning algorithms
+
+31
+00:01:28.001 --> 00:01:31.005
+typically label the data so it can be classified
+
+32
+00:01:31.005 --> 00:01:34.006
+or clustered together.
+
+33
+00:01:34.006 --> 00:01:36.007
+Now it may surprise you, but machine learning
+
+34
+00:01:36.007 --> 00:01:40.000
+has actually been around for nearly 70 years.
+
+35
+00:01:40.000 --> 00:01:43.002
+Recently, it got a big boost because search engines
+
+36
+00:01:43.002 --> 00:01:46.003
+like Google and Bing use machine learning
+
+37
+00:01:46.003 --> 00:01:48.005
+to classify webpages.
+
+38
+00:01:48.005 --> 00:01:51.007
+So when you type the word cat into a search engine,
+
+39
+00:01:51.007 --> 00:01:55.005
+it searches it's massive database to see which web pages
+
+40
+00:01:55.005 --> 00:01:59.008
+it's labeled with the keyword, cat.
+
+41
+00:01:59.008 --> 00:02:03.000
+These machine learning algorithms crawl the web,
+
+42
+00:02:03.000 --> 00:02:08.006
+so they can classify billions of webpages based on keywords.
+
+43
+00:02:08.006 --> 00:02:12.000
+These algorithms are a bit like giant labeled guns,
+
+44
+00:02:12.000 --> 00:02:15.001
+organizing websites the same way
+
+45
+00:02:15.001 --> 00:02:18.002
+you might label your spice cabinet.
+
+46
+00:02:18.002 --> 00:02:21.009
+But again, even the one system classifies web pages
+
+47
+00:02:21.009 --> 00:02:24.002
+and the other tries to make decisions
+
+48
+00:02:24.002 --> 00:02:25.009
+or understand the language,
+
+49
+00:02:25.009 --> 00:02:29.001
+the underlying concept is very similar.
+
+50
+00:02:29.001 --> 00:02:31.001
+Data is being labeled based
+
+51
+00:02:31.001 --> 00:02:34.009
+on the machine learning's classification algorithm.
+
+52
+00:02:34.009 --> 00:02:37.003
+With natural language processing,
+
+53
+00:02:37.003 --> 00:02:39.004
+you labeled different phrases,
+
+54
+00:02:39.004 --> 00:02:41.009
+so the system knows how to respond.
+
+55
+00:02:41.009 --> 00:02:44.008
+So if you say something like, I don't understand,
+
+56
+00:02:44.008 --> 00:02:47.004
+it can label that text as a question,
+
+57
+00:02:47.004 --> 00:02:50.008
+then connect it to the most popular response.
+
+58
+00:02:50.008 --> 00:02:53.009
+So you can think of machine learning as a broader concept
+
+59
+00:02:53.009 --> 00:02:59.002
+that helps many other AI tools label massive data sets.
+
+60
+00:02:59.002 --> 00:03:02.004
+In many ways, this data labeling is a key ingredient
+
+61
+00:03:02.004 --> 00:03:05.009
+to make these AI systems work well.
+
+62
+00:03:05.009 --> 00:03:08.001
+But much like any other key ingredient,
+
+63
+00:03:08.001 --> 00:03:10.008
+machine learning can be mixed and matched with other things
+
+64
+00:03:10.008 --> 00:03:13.003
+or just used on its own.
+
+65
+00:03:13.003 --> 00:03:16.003
+Later, we'll take a look at what might work best
+
+66
+00:03:16.003 --> 00:03:18.005
+for your organization.
