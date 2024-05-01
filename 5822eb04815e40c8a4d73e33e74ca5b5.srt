@@ -1,0 +1,285 @@
+WEBVTT
+
+1
+00:00:00.008 --> 00:00:04.003
+- Remember that automated decision making systems work best
+
+2
+00:00:04.003 --> 00:00:07.004
+when they have access to massive amounts of data.
+
+3
+00:00:07.004 --> 00:00:10.006
+That's how they make the best analytical decisions.
+
+4
+00:00:10.006 --> 00:00:13.001
+These systems rely on other technologies
+
+5
+00:00:13.001 --> 00:00:15.004
+to gather up that data.
+
+6
+00:00:15.004 --> 00:00:18.005
+Now these automated decision systems can use data
+
+7
+00:00:18.005 --> 00:00:20.004
+from many different sources.
+
+8
+00:00:20.004 --> 00:00:22.005
+This might include past data
+
+9
+00:00:22.005 --> 00:00:25.000
+but it can also include current data
+
+10
+00:00:25.000 --> 00:00:28.000
+or data that's created in real time.
+
+11
+00:00:28.000 --> 00:00:31.009
+That's why you're seeing some organizations use IoT devices
+
+12
+00:00:31.009 --> 00:00:35.006
+to gather up data for these decision making systems.
+
+13
+00:00:35.006 --> 00:00:38.007
+IoT stands for Internet of things.
+
+14
+00:00:38.007 --> 00:00:40.008
+It usually refers small devices
+
+15
+00:00:40.008 --> 00:00:43.001
+that are connected to the internet.
+
+16
+00:00:43.001 --> 00:00:45.000
+The whole point of these devices
+
+17
+00:00:45.000 --> 00:00:48.002
+is to create real time data.
+
+18
+00:00:48.002 --> 00:00:50.002
+State electric companies are one
+
+19
+00:00:50.002 --> 00:00:52.003
+of the organizations doing interesting work
+
+20
+00:00:52.003 --> 00:00:54.005
+using IoT devices.
+
+21
+00:00:54.005 --> 00:00:56.001
+They connect these devices
+
+22
+00:00:56.001 --> 00:00:59.002
+to their automated decision making systems.
+
+23
+00:00:59.002 --> 00:01:02.001
+These companies put small communication devices
+
+24
+00:01:02.001 --> 00:01:03.009
+into your electric meter.
+
+25
+00:01:03.009 --> 00:01:06.005
+That way they can process your electricity use
+
+26
+00:01:06.005 --> 00:01:07.008
+in real time.
+
+27
+00:01:07.008 --> 00:01:09.004
+They record this data and try
+
+28
+00:01:09.004 --> 00:01:12.001
+to predict when you need more power.
+
+29
+00:01:12.001 --> 00:01:14.007
+They can gather this data for groups of houses,
+
+30
+00:01:14.007 --> 00:01:17.001
+cities, and even states.
+
+31
+00:01:17.001 --> 00:01:19.007
+They can then use it for statistical analysis
+
+32
+00:01:19.007 --> 00:01:23.000
+on statewide energy usage.
+
+33
+00:01:23.000 --> 00:01:24.006
+These companies use this data
+
+34
+00:01:24.006 --> 00:01:27.000
+in automated decision making systems
+
+35
+00:01:27.000 --> 00:01:31.002
+to try and create next generation smart grids.
+
+36
+00:01:31.002 --> 00:01:35.007
+An AI system can see very complex patterns on energy usage.
+
+37
+00:01:35.007 --> 00:01:38.002
+So these AI systems can route more power
+
+38
+00:01:38.002 --> 00:01:42.001
+to different parts of the grid in real time.
+
+39
+00:01:42.001 --> 00:01:45.008
+That way they make sure customers get the power they need.
+
+40
+00:01:45.008 --> 00:01:49.002
+But the AI system could also make decisions as well.
+
+41
+00:01:49.002 --> 00:01:51.009
+It could determine if customers are too wasteful.
+
+42
+00:01:51.009 --> 00:01:53.007
+Then the system might raise the rate
+
+43
+00:01:53.007 --> 00:01:55.007
+for that individual to encourage them
+
+44
+00:01:55.007 --> 00:01:58.009
+to increase their energy efficiency.
+
+45
+00:01:58.009 --> 00:02:03.004
+Newer IoT meters can even identify individual appliances
+
+46
+00:02:03.004 --> 00:02:04.009
+in someone's house.
+
+47
+00:02:04.009 --> 00:02:06.000
+At some point,
+
+48
+00:02:06.000 --> 00:02:08.001
+they might even be able to shut off outlets
+
+49
+00:02:08.001 --> 00:02:11.003
+if they detect an appliance is shorting out.
+
+50
+00:02:11.003 --> 00:02:13.005
+This stream of real time data combined
+
+51
+00:02:13.005 --> 00:02:16.002
+with AI decision making could create a system
+
+52
+00:02:16.002 --> 00:02:18.003
+that sees large scale patterns
+
+53
+00:02:18.003 --> 00:02:21.009
+while also keeping track of each outlet.
+
+54
+00:02:21.009 --> 00:02:23.008
+So if you're thinking about using this tool,
+
+55
+00:02:23.008 --> 00:02:27.005
+you might want to think carefully about what real time data
+
+56
+00:02:27.005 --> 00:02:31.003
+would be the most useful in your decision making.
+
+57
+00:02:31.003 --> 00:02:33.007
+Remember that AI systems do best
+
+58
+00:02:33.007 --> 00:02:36.001
+with massive amounts of data.
+
+59
+00:02:36.001 --> 00:02:38.007
+They're great at making analytical decisions
+
+60
+00:02:38.007 --> 00:02:41.005
+that don't require a lot of creativity.
+
+61
+00:02:41.005 --> 00:02:43.001
+The more data you collect,
+
+62
+00:02:43.001 --> 00:02:45.008
+the more powerful your system becomes.
+
+63
+00:02:45.008 --> 00:02:48.005
+If you decide to use IoT devices,
+
+64
+00:02:48.005 --> 00:02:50.001
+be sure to look for ways
+
+65
+00:02:50.001 --> 00:02:53.006
+to connect data sources to past trends.
+
+66
+00:02:53.006 --> 00:02:56.002
+It's not enough to see the data in real time.
+
+67
+00:02:56.002 --> 00:02:58.007
+Your AI decision making system needs
+
+68
+00:02:58.007 --> 00:03:03.000
+to compare this real time data to historical trends.
+
+69
+00:03:03.000 --> 00:03:04.000
+As always,
+
+70
+00:03:04.000 --> 00:03:06.008
+the quality of your data will let your system make
+
+71
+00:03:06.008 --> 00:03:10.002
+much more significant automated decisions.
