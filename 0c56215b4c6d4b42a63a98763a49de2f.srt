@@ -1,0 +1,273 @@
+WEBVTT
+
+1
+00:00:00.005 --> 00:00:03.003
+- So far we've seen how natural language processing
+
+2
+00:00:03.003 --> 00:00:08.007
+or NLP can be broken down into two main AI concepts.
+
+3
+00:00:08.007 --> 00:00:12.000
+There's natural language generation or NLG.
+
+4
+00:00:12.000 --> 00:00:14.005
+This is where the AI system outputs texts
+
+5
+00:00:14.005 --> 00:00:17.002
+in a way that sounds more human.
+
+6
+00:00:17.002 --> 00:00:21.002
+Then there's natural language understanding or NLU.
+
+7
+00:00:21.002 --> 00:00:25.006
+This is when an AI system can analyze human generated text
+
+8
+00:00:25.006 --> 00:00:28.007
+and understand the overall meaning.
+
+9
+00:00:28.007 --> 00:00:32.007
+There's also automated speech recognition or ASR.
+
+10
+00:00:32.007 --> 00:00:35.001
+This allows a person to speak normally
+
+11
+00:00:35.001 --> 00:00:38.005
+then the ASR system recognizes these sounds
+
+12
+00:00:38.005 --> 00:00:42.000
+and transcribes them into text.
+
+13
+00:00:42.000 --> 00:00:45.004
+So when you combine natural language processing
+
+14
+00:00:45.004 --> 00:00:48.002
+with automated speech recognition,
+
+15
+00:00:48.002 --> 00:00:51.000
+you end up with an AI system that can interact
+
+16
+00:00:51.000 --> 00:00:53.006
+in a way that feels conversational.
+
+17
+00:00:53.006 --> 00:00:54.005
+In fact,
+
+18
+00:00:54.005 --> 00:00:56.002
+it's these combined concepts
+
+19
+00:00:56.002 --> 00:00:59.001
+that people are most familiar with.
+
+20
+00:00:59.001 --> 00:01:00.005
+Some of the largest companies,
+
+21
+00:01:00.005 --> 00:01:03.005
+such as Apple, Microsoft, and Amazon,
+
+22
+00:01:03.005 --> 00:01:09.007
+are creating virtual assistants that combine NLP and ASR.
+
+23
+00:01:09.007 --> 00:01:13.001
+When you talk to Siri, Cortana, or Google Assistant,
+
+24
+00:01:13.001 --> 00:01:16.001
+you might view this as one technology.
+
+25
+00:01:16.001 --> 00:01:17.002
+But in reality,
+
+26
+00:01:17.002 --> 00:01:20.003
+it's like combination of all of these technologies.
+
+27
+00:01:20.003 --> 00:01:24.000
+They work together to create a seamless experience.
+
+28
+00:01:24.000 --> 00:01:25.009
+But when you're thinking about these concepts
+
+29
+00:01:25.009 --> 00:01:27.002
+in your business,
+
+30
+00:01:27.002 --> 00:01:31.005
+you should really think about them as separate AI systems.
+
+31
+00:01:31.005 --> 00:01:34.003
+That way you'll apply the most appropriate technology
+
+32
+00:01:34.003 --> 00:01:37.009
+without spending extra money on things you don't need.
+
+33
+00:01:37.009 --> 00:01:39.005
+So think of it this way.
+
+34
+00:01:39.005 --> 00:01:41.007
+Amazon has encouraged businesses
+
+35
+00:01:41.007 --> 00:01:44.007
+to use their virtual assistant Alexa
+
+36
+00:01:44.007 --> 00:01:46.008
+to help book conference rooms.
+
+37
+00:01:46.008 --> 00:01:49.004
+But most large companies don't call people
+
+38
+00:01:49.004 --> 00:01:51.007
+on the phone to book these rooms.
+
+39
+00:01:51.007 --> 00:01:53.009
+That means that they don't really need
+
+40
+00:01:53.009 --> 00:01:57.001
+automated speech recognition or ASR.
+
+41
+00:01:57.001 --> 00:01:57.009
+In fact,
+
+42
+00:01:57.009 --> 00:02:01.004
+you might recognize that natural language understanding
+
+43
+00:02:01.004 --> 00:02:04.002
+or NLU is the biggest challenge
+
+44
+00:02:04.002 --> 00:02:08.000
+when using an AI system to book a conference room.
+
+45
+00:02:08.000 --> 00:02:10.009
+If the system understands what a person is saying,
+
+46
+00:02:10.009 --> 00:02:12.003
+then it shouldn't be too difficult
+
+47
+00:02:12.003 --> 00:02:15.002
+to connect to a scheduling system.
+
+48
+00:02:15.002 --> 00:02:17.004
+And it doesn't seem to necessary to spend too much time
+
+49
+00:02:17.004 --> 00:02:20.008
+with natural language generation or NLG.
+
+50
+00:02:20.008 --> 00:02:23.005
+Most of the response will just be the system telling you
+
+51
+00:02:23.005 --> 00:02:26.004
+whether the conference room is available.
+
+52
+00:02:26.004 --> 00:02:27.003
+So in this case,
+
+53
+00:02:27.003 --> 00:02:30.005
+it might make sense to use a virtual agent.
+
+54
+00:02:30.005 --> 00:02:33.003
+This can simply be a chatbot or an agent
+
+55
+00:02:33.003 --> 00:02:35.008
+that responds to texts or email.
+
+56
+00:02:35.008 --> 00:02:38.002
+That way people in your organization can open up
+
+57
+00:02:38.002 --> 00:02:42.000
+a chatbot client and have a simple text conversation.
+
+58
+00:02:42.000 --> 00:02:43.000
+In this case,
+
+59
+00:02:43.000 --> 00:02:46.005
+you understood that NLU would be the biggest challenge.
+
+60
+00:02:46.005 --> 00:02:49.006
+So you put a lot more emphasis on these tools
+
+61
+00:02:49.006 --> 00:02:52.006
+than you would on automated speech recognition
+
+62
+00:02:52.006 --> 00:02:55.001
+or natural language generation.
+
+63
+00:02:55.001 --> 00:02:57.007
+When you're using these tools to build your own system,
+
+64
+00:02:57.007 --> 00:03:00.001
+you should think about it in the same way.
+
+65
+00:03:00.001 --> 00:03:02.008
+Will your system spend most of the time writing,
+
+66
+00:03:02.008 --> 00:03:06.000
+understanding, or listening.
+
+67
+00:03:06.000 --> 00:03:07.005
+That way you can build a system
+
+68
+00:03:07.005 --> 00:03:10.003
+that will be the most helpful for what you need.
