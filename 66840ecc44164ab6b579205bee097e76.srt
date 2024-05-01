@@ -1,0 +1,281 @@
+WEBVTT
+
+1
+00:00:00.008 --> 00:00:02.000
+- We've talked about how we can use
+
+2
+00:00:02.000 --> 00:00:05.003
+natural language generation or NLG
+
+3
+00:00:05.003 --> 00:00:09.001
+to create short paragraphs from different data sources.
+
+4
+00:00:09.001 --> 00:00:11.002
+This works well for organizations
+
+5
+00:00:11.002 --> 00:00:14.008
+that want to use text to explain data.
+
+6
+00:00:14.008 --> 00:00:15.008
+And if you think about it,
+
+7
+00:00:15.008 --> 00:00:17.002
+there are many scenarios
+
+8
+00:00:17.002 --> 00:00:19.006
+where you might want to explain data.
+
+9
+00:00:19.006 --> 00:00:21.008
+One place where this is increasingly common
+
+10
+00:00:21.008 --> 00:00:25.002
+is with online customer support systems.
+
+11
+00:00:25.002 --> 00:00:27.006
+In fact, a lot of support centers
+
+12
+00:00:27.006 --> 00:00:29.009
+involve a customer service representative
+
+13
+00:00:29.009 --> 00:00:31.005
+doing a little bit of research,
+
+14
+00:00:31.005 --> 00:00:34.000
+and then sending back text.
+
+15
+00:00:34.000 --> 00:00:36.000
+If you have a lot of data sources,
+
+16
+00:00:36.000 --> 00:00:40.000
+then it's not too difficult to imagine an NLG system
+
+17
+00:00:40.000 --> 00:00:42.005
+doing this heavy lifting.
+
+18
+00:00:42.005 --> 00:00:43.007
+Imagine that you just bought
+
+19
+00:00:43.007 --> 00:00:46.004
+a brand new flat screen television.
+
+20
+00:00:46.004 --> 00:00:48.001
+Then you go to the company's website
+
+21
+00:00:48.001 --> 00:00:49.008
+to figure out how to connect it
+
+22
+00:00:49.008 --> 00:00:52.006
+to some online streaming services.
+
+23
+00:00:52.006 --> 00:00:54.001
+Maybe you type a simple message
+
+24
+00:00:54.001 --> 00:00:58.003
+like how do I connect my television to Netflix?
+
+25
+00:00:58.003 --> 00:01:01.003
+An AI system can break that down into keywords.
+
+26
+00:01:01.003 --> 00:01:03.008
+So for this, they might search their database
+
+27
+00:01:03.008 --> 00:01:06.008
+for television and Netflix.
+
+28
+00:01:06.008 --> 00:01:09.003
+The application could send back a message
+
+29
+00:01:09.003 --> 00:01:12.001
+that says something like, "Thank you for your message,
+
+30
+00:01:12.001 --> 00:01:14.000
+"we have a few television sets
+
+31
+00:01:14.000 --> 00:01:15.008
+"that allow you to watch Netflix.
+
+32
+00:01:15.008 --> 00:01:19.007
+"Do you have our latest model, the HDI?"
+
+33
+00:01:19.007 --> 00:01:21.004
+Even in a simple exchange,
+
+34
+00:01:21.004 --> 00:01:24.006
+you have the AI system searching through a product catalog
+
+35
+00:01:24.006 --> 00:01:28.004
+to verify that certain television sets support Netflix.
+
+36
+00:01:28.004 --> 00:01:31.001
+It even lists out the latest model.
+
+37
+00:01:31.001 --> 00:01:32.008
+When your customer responds,
+
+38
+00:01:32.008 --> 00:01:36.000
+the AI system will have even more information.
+
+39
+00:01:36.000 --> 00:01:37.006
+It'll look through forums
+
+40
+00:01:37.006 --> 00:01:40.008
+and may even perform a search on websites.
+
+41
+00:01:40.008 --> 00:01:42.004
+With each message,
+
+42
+00:01:42.004 --> 00:01:45.001
+the AI system has a new set of keywords
+
+43
+00:01:45.001 --> 00:01:48.005
+to perform a more sophisticated search.
+
+44
+00:01:48.005 --> 00:01:52.007
+The more data this NLG system has access to,
+
+45
+00:01:52.007 --> 00:01:55.004
+the more useful the response.
+
+46
+00:01:55.004 --> 00:01:57.007
+You might get a message back that the television
+
+47
+00:01:57.007 --> 00:02:00.001
+has a brand new firmware update.
+
+48
+00:02:00.001 --> 00:02:01.001
+Then you'll get a response
+
+49
+00:02:01.001 --> 00:02:05.000
+to see if you need help installing the update.
+
+50
+00:02:05.000 --> 00:02:07.008
+NLG also gives organizations an opportunity
+
+51
+00:02:07.008 --> 00:02:11.004
+to reach out to customers to prevent problems.
+
+52
+00:02:11.004 --> 00:02:13.006
+Remember that the NLG system
+
+53
+00:02:13.006 --> 00:02:16.007
+sees communication as a data challenge.
+
+54
+00:02:16.007 --> 00:02:20.001
+So now the organization has a little bit more data
+
+55
+00:02:20.001 --> 00:02:22.008
+about how you use your television set.
+
+56
+00:02:22.008 --> 00:02:24.009
+It knows what type of television you have
+
+57
+00:02:24.009 --> 00:02:28.008
+and the fact that you like to use it to watch Netflix.
+
+58
+00:02:28.008 --> 00:02:31.000
+It now has all the data it needs
+
+59
+00:02:31.000 --> 00:02:35.002
+to send out messages to prevent future service issues.
+
+60
+00:02:35.002 --> 00:02:37.004
+Maybe Netflix changed their clients
+
+61
+00:02:37.004 --> 00:02:39.008
+so it no longer works with your television.
+
+62
+00:02:39.008 --> 00:02:42.007
+The organization could use their NLG system
+
+63
+00:02:42.007 --> 00:02:44.007
+to send you an email.
+
+64
+00:02:44.007 --> 00:02:46.009
+It might say that if you still use your television set
+
+65
+00:02:46.009 --> 00:02:48.002
+to watch Netflix,
+
+66
+00:02:48.002 --> 00:02:50.007
+then you might need to upgrade your firmware.
+
+67
+00:02:50.007 --> 00:02:52.008
+So with the help of your TV set,
+
+68
+00:02:52.008 --> 00:02:57.004
+you become just another data source for the NLG system.
+
+69
+00:02:57.004 --> 00:02:58.008
+It can use this data
+
+70
+00:02:58.008 --> 00:03:01.007
+to send you relevant customer service messages.
