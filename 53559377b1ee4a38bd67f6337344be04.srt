@@ -1,0 +1,269 @@
+WEBVTT
+
+1
+00:00:00.006 --> 00:00:01.007
+- There are many cases
+
+2
+00:00:01.007 --> 00:00:05.005
+where you'd need a very specialized decision-making system.
+
+3
+00:00:05.005 --> 00:00:07.006
+You'd certainly want a specialized system
+
+4
+00:00:07.006 --> 00:00:11.003
+to evaluate X-rays, but there are also many times
+
+5
+00:00:11.003 --> 00:00:14.005
+where you'd use a more general form of decision-making.
+
+6
+00:00:14.005 --> 00:00:17.006
+We've seen this happening with banks and credit cards.
+
+7
+00:00:17.006 --> 00:00:19.002
+You've probably seen those websites
+
+8
+00:00:19.002 --> 00:00:23.005
+that promise a 30-second decision for a loan or credit card.
+
+9
+00:00:23.005 --> 00:00:25.007
+These websites typically use a form
+
+10
+00:00:25.007 --> 00:00:27.009
+of automated decision-making.
+
+11
+00:00:27.009 --> 00:00:29.005
+They'll look at your credit score,
+
+12
+00:00:29.005 --> 00:00:33.002
+and if you meet a certain criteria, you'll get approved.
+
+13
+00:00:33.002 --> 00:00:36.003
+Newer machine learning algorithms allow you to do this
+
+14
+00:00:36.003 --> 00:00:38.008
+in a much more sophisticated way.
+
+15
+00:00:38.008 --> 00:00:41.007
+These automated decision-making systems aren't limited
+
+16
+00:00:41.007 --> 00:00:43.005
+to a simple credit score.
+
+17
+00:00:43.005 --> 00:00:45.003
+Instead, these newer systems can look
+
+18
+00:00:45.003 --> 00:00:48.002
+at your employment history, your job history,
+
+19
+00:00:48.002 --> 00:00:50.004
+and even your social media data.
+
+20
+00:00:50.004 --> 00:00:52.008
+Because they're looking through so much more data,
+
+21
+00:00:52.008 --> 00:00:56.004
+they can usually make a much more accurate decision.
+
+22
+00:00:56.004 --> 00:00:58.009
+And machine learning can make accurate predictions
+
+23
+00:00:58.009 --> 00:01:01.004
+at a much lower cost.
+
+24
+00:01:01.004 --> 00:01:03.003
+In the past, you'd have a loan agent
+
+25
+00:01:03.003 --> 00:01:05.005
+and a lengthy application process.
+
+26
+00:01:05.005 --> 00:01:08.003
+The whole point of this process was to try and predict
+
+27
+00:01:08.003 --> 00:01:10.009
+whether you'd have trouble paying back a loan.
+
+28
+00:01:10.009 --> 00:01:12.003
+So the cost of deciding whether
+
+29
+00:01:12.003 --> 00:01:15.007
+to give you a loan was relatively high.
+
+30
+00:01:15.007 --> 00:01:18.005
+Now these newer systems can make a much more accurate
+
+31
+00:01:18.005 --> 00:01:21.003
+and less costly decision in seconds.
+
+32
+00:01:21.003 --> 00:01:24.003
+And since these systems give more accurate results
+
+33
+00:01:24.003 --> 00:01:26.009
+at a lower cost, they're now being used
+
+34
+00:01:26.009 --> 00:01:29.008
+for many different types of decisions.
+
+35
+00:01:29.008 --> 00:01:33.002
+Some businesses are using automated decision-making systems
+
+36
+00:01:33.002 --> 00:01:36.004
+to decide whether or not they should hire a new employee.
+
+37
+00:01:36.004 --> 00:01:39.000
+Some universities use similar systems
+
+38
+00:01:39.000 --> 00:01:42.001
+to decide whether they should admit a student.
+
+39
+00:01:42.001 --> 00:01:44.000
+If you're thinking about using a system like this
+
+40
+00:01:44.000 --> 00:01:48.002
+with your organization, then start by considering your data.
+
+41
+00:01:48.002 --> 00:01:51.006
+The most common system is one that classifies people
+
+42
+00:01:51.006 --> 00:01:53.005
+into certain groups.
+
+43
+00:01:53.005 --> 00:01:54.004
+Remember that many
+
+44
+00:01:54.004 --> 00:01:56.009
+of these automated decision-making systems
+
+45
+00:01:56.009 --> 00:01:59.008
+use supervised machine learning.
+
+46
+00:01:59.008 --> 00:02:04.001
+So you might classify people as high-risk loan candidates.
+
+47
+00:02:04.001 --> 00:02:06.006
+Remember that with supervised machine learning,
+
+48
+00:02:06.006 --> 00:02:09.004
+you start out by creating a small training set
+
+49
+00:02:09.004 --> 00:02:13.004
+to show the system how you want to classify the data.
+
+50
+00:02:13.004 --> 00:02:16.005
+In this case, you'll show the system how to classify people
+
+51
+00:02:16.005 --> 00:02:18.009
+into different risk groups.
+
+52
+00:02:18.009 --> 00:02:20.004
+So if you work for a bank,
+
+53
+00:02:20.004 --> 00:02:23.003
+you'd create a training set of applications
+
+54
+00:02:23.003 --> 00:02:26.005
+for people who didn't repay their loans.
+
+55
+00:02:26.005 --> 00:02:30.003
+Those would be your high risk loan candidates.
+
+56
+00:02:30.003 --> 00:02:32.008
+If you want to create a system that hires people,
+
+57
+00:02:32.008 --> 00:02:34.008
+then you'd want to create a training set
+
+58
+00:02:34.008 --> 00:02:38.008
+of employment applications for your most successful hires.
+
+59
+00:02:38.008 --> 00:02:41.004
+Then you'd train the system to look for people
+
+60
+00:02:41.004 --> 00:02:43.005
+with similar qualities.
+
+61
+00:02:43.005 --> 00:02:45.000
+You'd feed the data into the system
+
+62
+00:02:45.000 --> 00:02:47.000
+so it can look for patterns.
+
+63
+00:02:47.000 --> 00:02:48.009
+The system will find patterns
+
+64
+00:02:48.009 --> 00:02:51.004
+in some of your high-risk loan candidates,
+
+65
+00:02:51.004 --> 00:02:53.000
+or it will look for patterns
+
+66
+00:02:53.000 --> 00:02:55.007
+in some of your most successful employees.
+
+67
+00:02:55.007 --> 00:02:59.006
+Then it will match those patterns to the new applications.
