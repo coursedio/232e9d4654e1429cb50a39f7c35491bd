@@ -1,0 +1,285 @@
+WEBVTT
+
+1
+00:00:00.006 --> 00:00:03.000
+- So we've seen that you can use supervised machine learning
+
+2
+00:00:03.000 --> 00:00:04.007
+to make better decisions
+
+3
+00:00:04.007 --> 00:00:08.004
+in your AI automated decision making systems.
+
+4
+00:00:08.004 --> 00:00:09.007
+With supervised machine learning,
+
+5
+00:00:09.007 --> 00:00:12.005
+you can also make really accurate predictions
+
+6
+00:00:12.005 --> 00:00:14.004
+at a pretty low cost.
+
+7
+00:00:14.004 --> 00:00:16.005
+You no longer need a manual process
+
+8
+00:00:16.005 --> 00:00:20.006
+to go through job candidates or loan applications.
+
+9
+00:00:20.006 --> 00:00:23.004
+If you want to use these systems in your organization,
+
+10
+00:00:23.004 --> 00:00:25.000
+then you need to make sure that you have access
+
+11
+00:00:25.000 --> 00:00:26.007
+to a lot of data.
+
+12
+00:00:26.007 --> 00:00:29.002
+You'd want to train your machine learning algorithms
+
+13
+00:00:29.002 --> 00:00:32.002
+with data about your low-risk loan customers
+
+14
+00:00:32.002 --> 00:00:34.004
+or your best employees.
+
+15
+00:00:34.004 --> 00:00:37.000
+Then the system can match new candidates
+
+16
+00:00:37.000 --> 00:00:39.006
+to your existing data.
+
+17
+00:00:39.006 --> 00:00:40.008
+Now if you think about it,
+
+18
+00:00:40.008 --> 00:00:43.002
+you're putting a lot of trust into these algorithms.
+
+19
+00:00:43.002 --> 00:00:45.005
+And for all these systems might find patterns
+
+20
+00:00:45.005 --> 00:00:48.002
+that humans can't really comprehend.
+
+21
+00:00:48.002 --> 00:00:51.002
+What really makes a person your best employee?
+
+22
+00:00:51.002 --> 00:00:54.005
+What are the factors that make a student successful?
+
+23
+00:00:54.005 --> 00:00:58.002
+What kind of person always pays back their loans?
+
+24
+00:00:58.002 --> 00:01:00.008
+The system doesn't look at the personal qualities
+
+25
+00:01:00.008 --> 00:01:03.009
+of these people, it just looks at the data.
+
+26
+00:01:03.009 --> 00:01:06.006
+That means it might find that wealthy applicants
+
+27
+00:01:06.006 --> 00:01:09.003
+are more likely to pay back a home.
+
+28
+00:01:09.003 --> 00:01:11.000
+It also might find that students
+
+29
+00:01:11.000 --> 00:01:12.009
+who come from expensive neighborhoods
+
+30
+00:01:12.009 --> 00:01:15.005
+are more likely to succeed in school.
+
+31
+00:01:15.005 --> 00:01:18.001
+Because it's just working off the data,
+
+32
+00:01:18.001 --> 00:01:20.006
+the system will happily deny a loan
+
+33
+00:01:20.006 --> 00:01:23.001
+to anyone below a certain income level.
+
+34
+00:01:23.001 --> 00:01:26.002
+It will also confidently refuse to admit students
+
+35
+00:01:26.002 --> 00:01:29.003
+if they come from less expensive neighborhoods.
+
+36
+00:01:29.003 --> 00:01:32.002
+So if there's any inequality in the system,
+
+37
+00:01:32.002 --> 00:01:34.001
+your machine learning algorithms
+
+38
+00:01:34.001 --> 00:01:37.000
+will not only pick up on that inequality,
+
+39
+00:01:37.000 --> 00:01:41.001
+but also use that criteria to make future decisions.
+
+40
+00:01:41.001 --> 00:01:45.007
+That means that this inequality might get amplified.
+
+41
+00:01:45.007 --> 00:01:47.002
+Think of it this way.
+
+42
+00:01:47.002 --> 00:01:49.007
+Imagine you work for a software development company.
+
+43
+00:01:49.007 --> 00:01:51.006
+Your executive decides that they want to use
+
+44
+00:01:51.006 --> 00:01:55.000
+a machine learning automated decision making system
+
+45
+00:01:55.000 --> 00:01:57.005
+to rate employment applications.
+
+46
+00:01:57.005 --> 00:01:59.008
+So you gather up the employment applications
+
+47
+00:01:59.008 --> 00:02:02.005
+for your top 500 employees.
+
+48
+00:02:02.005 --> 00:02:04.005
+Then you use this data to train
+
+49
+00:02:04.005 --> 00:02:06.001
+your machine learning algorithm
+
+50
+00:02:06.001 --> 00:02:09.009
+to find employees who closely match these top applications.
+
+51
+00:02:09.009 --> 00:02:12.005
+Now say that out of the 500 top employees,
+
+52
+00:02:12.005 --> 00:02:15.006
+only 150 of them are women.
+
+53
+00:02:15.006 --> 00:02:18.003
+When you train your system to rate new employees,
+
+54
+00:02:18.003 --> 00:02:20.006
+it's learned from your own data
+
+55
+00:02:20.006 --> 00:02:24.006
+that women are less likely to do well on your organization.
+
+56
+00:02:24.006 --> 00:02:26.006
+That means it will give female candidates
+
+57
+00:02:26.006 --> 00:02:30.009
+a lower rating when they submit their application.
+
+58
+00:02:30.009 --> 00:02:31.009
+So when you're building out
+
+59
+00:02:31.009 --> 00:02:34.002
+these automated decision making systems,
+
+60
+00:02:34.002 --> 00:02:36.009
+you have to be careful about how much bias
+
+61
+00:02:36.009 --> 00:02:38.009
+you feed into the system.
+
+62
+00:02:38.009 --> 00:02:41.000
+If the data you provide is biased,
+
+63
+00:02:41.000 --> 00:02:43.007
+then the system is only going to become more biased
+
+64
+00:02:43.007 --> 00:02:46.003
+as it looks through new data.
+
+65
+00:02:46.003 --> 00:02:49.003
+This kind of ethical challenge has been a big issue
+
+66
+00:02:49.003 --> 00:02:52.004
+in machine learning automated decision making systems.
+
+67
+00:02:52.004 --> 00:02:55.001
+In fact regulators in the European Union
+
+68
+00:02:55.001 --> 00:02:58.002
+have talked about creating a right of explanation.
+
+69
+00:02:58.002 --> 00:02:59.002
+If it's enacted,
+
+70
+00:02:59.002 --> 00:03:01.008
+this will give people the right to look at the criteria
+
+71
+00:03:01.008 --> 00:03:05.000
+that the system uses when making decisions about them.
