@@ -1,0 +1,261 @@
+WEBVTT
+
+1
+00:00:00.003 --> 00:00:03.004
+- Imagine that you're flying to a friend's graduation party.
+
+2
+00:00:03.004 --> 00:00:06.002
+You're a loyal customer, so you fly the same airline.
+
+3
+00:00:06.002 --> 00:00:08.008
+When you arrive at the airport, you start to worry.
+
+4
+00:00:08.008 --> 00:00:11.005
+You see people gathering in front of monitors.
+
+5
+00:00:11.005 --> 00:00:13.005
+It turns out that your flight has been canceled
+
+6
+00:00:13.005 --> 00:00:15.004
+due to bad weather.
+
+7
+00:00:15.004 --> 00:00:18.004
+Almost immediately, you get a text on your phone.
+
+8
+00:00:18.004 --> 00:00:21.001
+It turns out that you've been booked on the next flight.
+
+9
+00:00:21.001 --> 00:00:24.003
+You also get a smart code with a coupon for a restaurant.
+
+10
+00:00:24.003 --> 00:00:27.003
+Now, all of this is happening instantaneously.
+
+11
+00:00:27.003 --> 00:00:29.005
+It had very little human intervention,
+
+12
+00:00:29.005 --> 00:00:31.002
+and it's all because your airline
+
+13
+00:00:31.002 --> 00:00:34.007
+uses something called automated decision-making.
+
+14
+00:00:34.007 --> 00:00:37.006
+Remember that AI systems do well when they have access
+
+15
+00:00:37.006 --> 00:00:40.001
+to tremendous amounts of data.
+
+16
+00:00:40.001 --> 00:00:42.009
+Using that data, the airline can build a system
+
+17
+00:00:42.009 --> 00:00:45.000
+that makes instant decisions.
+
+18
+00:00:45.000 --> 00:00:47.004
+It can do this in a fraction of the time
+
+19
+00:00:47.004 --> 00:00:50.003
+that it would take a human customer service agent.
+
+20
+00:00:50.003 --> 00:00:51.009
+The automated decision-making system
+
+21
+00:00:51.009 --> 00:00:54.005
+probably evaluated your customer loyalty.
+
+22
+00:00:54.005 --> 00:00:56.006
+That way it could figure out who to book first
+
+23
+00:00:56.006 --> 00:00:58.000
+on the next flight.
+
+24
+00:00:58.000 --> 00:01:00.004
+Then it did some probability analysis
+
+25
+00:01:00.004 --> 00:01:01.009
+to determine the likelihood
+
+26
+00:01:01.009 --> 00:01:04.004
+your new flight was departing on time.
+
+27
+00:01:04.004 --> 00:01:06.002
+For that, it might use data sources
+
+28
+00:01:06.002 --> 00:01:08.001
+from the National Weather Service.
+
+29
+00:01:08.001 --> 00:01:10.005
+It might even look at historical trends
+
+30
+00:01:10.005 --> 00:01:13.003
+of similar flights from the same airport.
+
+31
+00:01:13.003 --> 00:01:16.006
+Finally, it created coupons based on the probability
+
+32
+00:01:16.006 --> 00:01:19.003
+that you'd get something to eat before your next flight.
+
+33
+00:01:19.003 --> 00:01:22.006
+It might get this data from your airline credit card.
+
+34
+00:01:22.006 --> 00:01:27.007
+This AI system uses a combination of statistical techniques.
+
+35
+00:01:27.007 --> 00:01:31.007
+One of the most important is real-time data gathering.
+
+36
+00:01:31.007 --> 00:01:34.007
+The system uses real-time data about the weather,
+
+37
+00:01:34.007 --> 00:01:38.007
+the airport, and the flight status of arriving airplanes.
+
+38
+00:01:38.007 --> 00:01:41.008
+It also takes into account whether this is your home city,
+
+39
+00:01:41.008 --> 00:01:44.006
+or if you're connecting to a different flight.
+
+40
+00:01:44.006 --> 00:01:47.002
+The system might also use trend analysis.
+
+41
+00:01:47.002 --> 00:01:49.006
+It considers questions like how long does it take
+
+42
+00:01:49.006 --> 00:01:51.002
+for the airport to clear out?
+
+43
+00:01:51.002 --> 00:01:53.003
+How many people go to the restaurants?
+
+44
+00:01:53.003 --> 00:01:55.000
+How often do you travel?
+
+45
+00:01:55.000 --> 00:01:58.003
+And how will this impact your future buying decisions?
+
+46
+00:01:58.003 --> 00:02:01.002
+This system uses both data and trend analysis
+
+47
+00:02:01.002 --> 00:02:03.005
+to forecast different outcomes.
+
+48
+00:02:03.005 --> 00:02:05.001
+What's the likelihood that you'll arrive
+
+49
+00:02:05.001 --> 00:02:07.001
+close to your original arrival time?
+
+50
+00:02:07.001 --> 00:02:09.006
+What's the likelihood that your flight will take off
+
+51
+00:02:09.006 --> 00:02:11.007
+without any further delay?
+
+52
+00:02:11.007 --> 00:02:15.007
+Remember that the AI system sees this as a data challenge.
+
+53
+00:02:15.007 --> 00:02:17.002
+Then it looks for patterns
+
+54
+00:02:17.002 --> 00:02:20.005
+so it can better predict future outcomes.
+
+55
+00:02:20.005 --> 00:02:23.006
+In many ways, that makes the system uniquely qualified
+
+56
+00:02:23.006 --> 00:02:25.005
+to make real-time decisions.
+
+57
+00:02:25.005 --> 00:02:28.004
+A human customer service agent might be friendlier,
+
+58
+00:02:28.004 --> 00:02:30.007
+but it would be nearly impossible for them
+
+59
+00:02:30.007 --> 00:02:33.008
+to weigh all these different statistical outcomes.
+
+60
+00:02:33.008 --> 00:02:36.004
+So it would be harder for them to come up with a solution
+
+61
+00:02:36.004 --> 00:02:40.001
+that has the highest probability of success.
+
+62
+00:02:40.001 --> 00:02:43.001
+AI systems can also do automated decision-making
+
+63
+00:02:43.001 --> 00:02:47.000
+to help solve all kinds of business logistics challenges.
+
+64
+00:02:47.000 --> 00:02:49.004
+It's not just airlines that benefit
+
+65
+00:02:49.004 --> 00:02:52.004
+from this type of real-time decision making.
