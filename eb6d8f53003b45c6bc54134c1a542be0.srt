@@ -1,0 +1,281 @@
+WEBVTT
+
+1
+00:00:00.004 --> 00:00:02.005
+- So we've seen how to use artificial intelligence
+
+2
+00:00:02.005 --> 00:00:05.002
+to generate natural sounding text.
+
+3
+00:00:05.002 --> 00:00:08.002
+Natural language generation, or NLG,
+
+4
+00:00:08.002 --> 00:00:10.009
+works best when the system has access
+
+5
+00:00:10.009 --> 00:00:13.001
+to many different data sources.
+
+6
+00:00:13.001 --> 00:00:18.002
+Generally NLG is about getting your AI system to write.
+
+7
+00:00:18.002 --> 00:00:20.009
+But as most grade school students will tell you,
+
+8
+00:00:20.009 --> 00:00:23.006
+writing is only half the equation.
+
+9
+00:00:23.006 --> 00:00:26.004
+AI systems also need to read.
+
+10
+00:00:26.004 --> 00:00:30.000
+This is typically called natural language understanding
+
+11
+00:00:30.000 --> 00:00:31.009
+or NLU.
+
+12
+00:00:31.009 --> 00:00:34.004
+Now it would be easier to talk about AI systems
+
+13
+00:00:34.004 --> 00:00:35.009
+as reading and writing
+
+14
+00:00:35.009 --> 00:00:38.009
+instead of understanding and generating.
+
+15
+00:00:38.009 --> 00:00:42.006
+But remember, even though the end result might be the same,
+
+16
+00:00:42.006 --> 00:00:45.007
+the AI system is doing something very different
+
+17
+00:00:45.007 --> 00:00:48.008
+from what you do when you read and write.
+
+18
+00:00:48.008 --> 00:00:51.009
+So think about a simple conversation you might have.
+
+19
+00:00:51.009 --> 00:00:54.001
+Imagine a new Indian food restaurant
+
+20
+00:00:54.001 --> 00:00:56.003
+opened up close to where you work.
+
+21
+00:00:56.003 --> 00:00:59.006
+One day, a coworker asks you a question,
+
+22
+00:00:59.006 --> 00:01:03.001
+did you and Susan try the new Indian food restaurant?
+
+23
+00:01:03.001 --> 00:01:07.002
+Then you answer back, actually it was a little too spicy.
+
+24
+00:01:07.002 --> 00:01:09.006
+Then they ask, will you go back?
+
+25
+00:01:09.006 --> 00:01:12.007
+Then you say, I don't know.
+
+26
+00:01:12.007 --> 00:01:15.000
+Now this conversation is pretty seamless
+
+27
+00:01:15.000 --> 00:01:16.007
+from a human perspective,
+
+28
+00:01:16.007 --> 00:01:19.009
+but if you look at it from the perspective of an AI system
+
+29
+00:01:19.009 --> 00:01:23.006
+you can start to see how this gets really complicated.
+
+30
+00:01:23.006 --> 00:01:26.002
+The first challenge is that you need to understand
+
+31
+00:01:26.002 --> 00:01:28.005
+a lot of context.
+
+32
+00:01:28.005 --> 00:01:30.000
+When your coworker asks you
+
+33
+00:01:30.000 --> 00:01:32.004
+if you tried the new restaurant,
+
+34
+00:01:32.004 --> 00:01:36.001
+they're really asking if you went there for the first time.
+
+35
+00:01:36.001 --> 00:01:38.007
+When you responded that it was too spicy,
+
+36
+00:01:38.007 --> 00:01:40.003
+you're answering their question
+
+37
+00:01:40.003 --> 00:01:42.009
+and then adding more information.
+
+38
+00:01:42.009 --> 00:01:45.009
+You're saying whether or not you liked the food.
+
+39
+00:01:45.009 --> 00:01:48.000
+So you wouldn't know if the food was spicy,
+
+40
+00:01:48.000 --> 00:01:50.004
+unless you went to the restaurant.
+
+41
+00:01:50.004 --> 00:01:52.006
+Finally, when your coworker asks
+
+42
+00:01:52.006 --> 00:01:55.009
+if you want to go back your answers a little irregular,
+
+43
+00:01:55.009 --> 00:01:57.008
+you say you don't know.
+
+44
+00:01:57.008 --> 00:01:59.003
+But in this case it doesn't mean
+
+45
+00:01:59.003 --> 00:02:01.009
+that you don't know what they're asking.
+
+46
+00:02:01.009 --> 00:02:03.009
+Instead, it means that you don't know
+
+47
+00:02:03.009 --> 00:02:07.005
+whether or not the food was good enough to go back.
+
+48
+00:02:07.005 --> 00:02:09.004
+Remember that the AI system
+
+49
+00:02:09.004 --> 00:02:12.006
+is only looking at data and patterns.
+
+50
+00:02:12.006 --> 00:02:14.008
+That means that the system must have a lot
+
+51
+00:02:14.008 --> 00:02:19.009
+of underlying data to make sense of this simple exchange.
+
+52
+00:02:19.009 --> 00:02:20.009
+The system will need to know
+
+53
+00:02:20.009 --> 00:02:24.004
+what trying a restaurant means in this context.
+
+54
+00:02:24.004 --> 00:02:27.004
+It will also have to know that the food being spicy
+
+55
+00:02:27.004 --> 00:02:30.000
+is actually an answer to a question.
+
+56
+00:02:30.000 --> 00:02:32.007
+Then it has to know that you not knowing
+
+57
+00:02:32.007 --> 00:02:35.005
+whether you'll go back is actually your judgment
+
+58
+00:02:35.005 --> 00:02:37.004
+about the quality of the restaurant.
+
+59
+00:02:37.004 --> 00:02:40.009
+It's not that you don't know what your coworker's asking.
+
+60
+00:02:40.009 --> 00:02:43.005
+If the AI system didn't understand your meaning
+
+61
+00:02:43.005 --> 00:02:45.001
+when you said, don't know,
+
+62
+00:02:45.001 --> 00:02:46.009
+it might have responded with something like,
+
+63
+00:02:46.009 --> 00:02:49.002
+would you like me to repeat the question?
+
+64
+00:02:49.002 --> 00:02:51.005
+Because it might incorrectly assume
+
+65
+00:02:51.005 --> 00:02:54.007
+that you didn't know what the person was asking.
+
+66
+00:02:54.007 --> 00:02:58.008
+In many ways, NLU is really the most challenging component
+
+67
+00:02:58.008 --> 00:03:00.008
+of natural language processing.
+
+68
+00:03:00.008 --> 00:03:02.003
+That's because it's very difficult
+
+69
+00:03:02.003 --> 00:03:04.009
+to have a conversation with an AI system
+
+70
+00:03:04.009 --> 00:03:07.009
+if they don't first understand what you're saying.
