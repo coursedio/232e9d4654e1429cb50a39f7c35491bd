@@ -1,0 +1,273 @@
+WEBVTT
+
+1
+00:00:00.005 --> 00:00:02.009
+- Are you one of those people who remembers someone's face
+
+2
+00:00:02.009 --> 00:00:04.009
+better than you remember their name?
+
+3
+00:00:04.009 --> 00:00:06.001
+That's not that unusual.
+
+4
+00:00:06.001 --> 00:00:09.002
+In fact, from a young age, most humans are excellent
+
+5
+00:00:09.002 --> 00:00:10.009
+at tracking faces.
+
+6
+00:00:10.009 --> 00:00:14.000
+Of course, each person's face is a little bit different.
+
+7
+00:00:14.000 --> 00:00:17.004
+Eyes, nose, lips, and ears, all vary slightly
+
+8
+00:00:17.004 --> 00:00:19.000
+from person to person,
+
+9
+00:00:19.000 --> 00:00:22.001
+and these differences can be turned into data.
+
+10
+00:00:22.001 --> 00:00:26.000
+You can calculate the exact distance of all of your features
+
+11
+00:00:26.000 --> 00:00:28.007
+and come up with a series of numbers.
+
+12
+00:00:28.007 --> 00:00:31.007
+Generally, we call this biometric data.
+
+13
+00:00:31.007 --> 00:00:34.006
+These are the distinct, measurable characteristics
+
+14
+00:00:34.006 --> 00:00:37.005
+that are used to identify individuals.
+
+15
+00:00:37.005 --> 00:00:40.009
+This data can measure your fingerprints, your DNA,
+
+16
+00:00:40.009 --> 00:00:43.007
+or even the sound of your voice.
+
+17
+00:00:43.007 --> 00:00:45.005
+Then you can gather this data
+
+18
+00:00:45.005 --> 00:00:49.001
+and machine learning algorithms will look for patterns.
+
+19
+00:00:49.001 --> 00:00:51.005
+So imagine that you call up a customer service line,
+
+20
+00:00:51.005 --> 00:00:54.001
+but you're not really getting the help you need.
+
+21
+00:00:54.001 --> 00:00:57.007
+As your frustration grows your voice sounds more strange.
+
+22
+00:00:57.007 --> 00:01:00.005
+Your breathing could become irregular
+
+23
+00:01:00.005 --> 00:01:02.008
+and artificial intelligence agents
+
+24
+00:01:02.008 --> 00:01:04.008
+would then warn a supervisor
+
+25
+00:01:04.008 --> 00:01:07.001
+that there's an unhappy customer.
+
+26
+00:01:07.001 --> 00:01:10.004
+An artificial intelligence system looks at biometrics,
+
+27
+00:01:10.004 --> 00:01:13.001
+like it would any other type of data.
+
+28
+00:01:13.001 --> 00:01:16.007
+It would compare your voice with hundreds of thousands
+
+29
+00:01:16.007 --> 00:01:18.007
+of other conversations.
+
+30
+00:01:18.007 --> 00:01:21.008
+Than an engineer might use supervised machine learning
+
+31
+00:01:21.008 --> 00:01:26.007
+to train the system to identify angry customers.
+
+32
+00:01:26.007 --> 00:01:29.002
+You might not think of your face, your fingerprints
+
+33
+00:01:29.002 --> 00:01:32.008
+or your voice as data, but to a machine learning system
+
+34
+00:01:32.008 --> 00:01:36.002
+it's just numbers and probability.
+
+35
+00:01:36.002 --> 00:01:38.007
+Widespread facial recognition is one
+
+36
+00:01:38.007 --> 00:01:42.004
+of the more controversial ways of using biometrics.
+
+37
+00:01:42.004 --> 00:01:45.008
+Remember that machine learning systems operate best
+
+38
+00:01:45.008 --> 00:01:48.004
+when they're dealing with massive amounts of data.
+
+39
+00:01:48.004 --> 00:01:50.009
+So that means that these systems can easily look
+
+40
+00:01:50.009 --> 00:01:55.000
+at video footage and identify people on the screen.
+
+41
+00:01:55.000 --> 00:01:57.004
+Many cities are starting to use this technology
+
+42
+00:01:57.004 --> 00:02:01.008
+to find missing people or identify a person's location.
+
+43
+00:02:01.008 --> 00:02:04.006
+Of course, there's some serious data ethics issues
+
+44
+00:02:04.006 --> 00:02:06.009
+around whether or not government should be allowed
+
+45
+00:02:06.009 --> 00:02:09.005
+to track everyone in real time.
+
+46
+00:02:09.005 --> 00:02:11.002
+But whether or not you think this is appropriate,
+
+47
+00:02:11.002 --> 00:02:13.003
+it's certainly well within the capabilities
+
+48
+00:02:13.003 --> 00:02:16.006
+of AI machine learning systems.
+
+49
+00:02:16.006 --> 00:02:20.001
+In the 2020 pandemic many healthcare workers
+
+50
+00:02:20.001 --> 00:02:22.004
+were given biometric rings.
+
+51
+00:02:22.004 --> 00:02:25.002
+These rings could transmit their body temperature
+
+52
+00:02:25.002 --> 00:02:28.001
+and other data to machine learning systems.
+
+53
+00:02:28.001 --> 00:02:31.005
+These systems were able to process the data in real time,
+
+54
+00:02:31.005 --> 00:02:34.000
+so it was able to predict whether there was an outbreak
+
+55
+00:02:34.000 --> 00:02:37.002
+in the hospital, but only a few healthcare staff
+
+56
+00:02:37.002 --> 00:02:39.000
+wore the biometric rings.
+
+57
+00:02:39.000 --> 00:02:40.009
+Like all machine learning systems,
+
+58
+00:02:40.009 --> 00:02:43.009
+they require lots of data to make better decisions.
+
+59
+00:02:43.009 --> 00:02:46.000
+If millions of people were wearing the rings,
+
+60
+00:02:46.000 --> 00:02:48.001
+then it might've been a very valuable way
+
+61
+00:02:48.001 --> 00:02:50.006
+to track the spread of the virus.
+
+62
+00:02:50.006 --> 00:02:52.007
+If you're thinking about using this technology,
+
+63
+00:02:52.007 --> 00:02:55.002
+you should start thinking about biometric data
+
+64
+00:02:55.002 --> 00:02:58.000
+in the same way as your machine learning system.
+
+65
+00:02:58.000 --> 00:03:01.001
+Imagine it as complex data where the machine looks
+
+66
+00:03:01.001 --> 00:03:02.003
+for patterns.
+
+67
+00:03:02.003 --> 00:03:05.002
+Then you should think about what value these patterns have
+
+68
+00:03:05.002 --> 00:03:06.006
+to your organization.
