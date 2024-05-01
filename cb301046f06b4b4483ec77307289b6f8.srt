@@ -1,0 +1,289 @@
+WEBVTT
+
+1
+00:00:00.008 --> 00:00:01.008
+- Now let's take a look
+
+2
+00:00:01.008 --> 00:00:03.008
+at how you can connect machine learning
+
+3
+00:00:03.008 --> 00:00:06.006
+to some other tools and concepts.
+
+4
+00:00:06.006 --> 00:00:08.001
+Let's think about how this might work
+
+5
+00:00:08.001 --> 00:00:11.004
+with something like natural language processing.
+
+6
+00:00:11.004 --> 00:00:13.001
+Remember that machine learning
+
+7
+00:00:13.001 --> 00:00:16.001
+generally can be used in two different ways.
+
+8
+00:00:16.001 --> 00:00:18.003
+There's supervised machine learning,
+
+9
+00:00:18.003 --> 00:00:19.007
+where you provide the algorithm
+
+10
+00:00:19.007 --> 00:00:21.009
+with an initial training set.
+
+11
+00:00:21.009 --> 00:00:24.005
+And then unsupervised machine learning,
+
+12
+00:00:24.005 --> 00:00:28.003
+where the algorithm discovers its own patterns in the data.
+
+13
+00:00:28.003 --> 00:00:29.005
+So imagine you wanted to build
+
+14
+00:00:29.005 --> 00:00:32.009
+an NLP machine learning system.
+
+15
+00:00:32.009 --> 00:00:34.009
+This new system would process
+
+16
+00:00:34.009 --> 00:00:38.005
+all of the social media data on your organization.
+
+17
+00:00:38.005 --> 00:00:41.006
+Then it would summarize this data into a weekly report
+
+18
+00:00:41.006 --> 00:00:45.009
+so that executives know how people feel about your company.
+
+19
+00:00:45.009 --> 00:00:49.000
+If you are in charge of developing this application,
+
+20
+00:00:49.000 --> 00:00:52.007
+would you use supervised or unsupervised machine learning?
+
+21
+00:00:52.007 --> 00:00:54.003
+With supervised machine learning,
+
+22
+00:00:54.003 --> 00:00:58.001
+you could try to classify your data into different moods.
+
+23
+00:00:58.001 --> 00:01:00.009
+In this case, your team would label the moods,
+
+24
+00:01:00.009 --> 00:01:04.006
+and then find social media to put into the training set.
+
+25
+00:01:04.006 --> 00:01:08.000
+So maybe you would create a mood called satisfied
+
+26
+00:01:08.000 --> 00:01:11.008
+and then your team would find posts of satisfied customers.
+
+27
+00:01:11.008 --> 00:01:14.002
+You can then use this technique to generate
+
+28
+00:01:14.002 --> 00:01:19.000
+dozens or even hundreds of different labeled moods.
+
+29
+00:01:19.000 --> 00:01:20.004
+Once you have this training set,
+
+30
+00:01:20.004 --> 00:01:22.006
+you could train your machine learning system
+
+31
+00:01:22.006 --> 00:01:27.004
+to find millions of posts that follow the same pattern.
+
+32
+00:01:27.004 --> 00:01:30.002
+What do you think of the advantages and disadvantages
+
+33
+00:01:30.002 --> 00:01:34.000
+of this type of supervised machine learning system?
+
+34
+00:01:34.000 --> 00:01:35.002
+One thing you might notice
+
+35
+00:01:35.002 --> 00:01:39.000
+is that your team creates the initial moods.
+
+36
+00:01:39.000 --> 00:01:41.005
+So in a sense, you're creating the labels
+
+37
+00:01:41.005 --> 00:01:45.007
+and then trying to fit the data into these categories.
+
+38
+00:01:45.007 --> 00:01:48.000
+That means that the system could break down
+
+39
+00:01:48.000 --> 00:01:51.005
+if the data doesn't fit into one of these moods.
+
+40
+00:01:51.005 --> 00:01:54.009
+If a customer wasn't satisfied or dissatisfied,
+
+41
+00:01:54.009 --> 00:01:58.002
+then the system would have trouble knowing what to do.
+
+42
+00:01:58.002 --> 00:02:00.006
+On the other hand, you could have the system
+
+43
+00:02:00.006 --> 00:02:03.000
+cluster the data into different groups
+
+44
+00:02:03.000 --> 00:02:05.008
+that it identifies on its own.
+
+45
+00:02:05.008 --> 00:02:08.008
+So you could use unsupervised machine learning
+
+46
+00:02:08.008 --> 00:02:10.009
+and natural language processing
+
+47
+00:02:10.009 --> 00:02:14.000
+to cluster the data into groups.
+
+48
+00:02:14.000 --> 00:02:17.001
+So the result would be that the machine learning system
+
+49
+00:02:17.001 --> 00:02:20.004
+would create clusters of social media data.
+
+50
+00:02:20.004 --> 00:02:22.007
+If it worked well, then these clusters
+
+51
+00:02:22.007 --> 00:02:25.002
+generally would be saying the same thing.
+
+52
+00:02:25.002 --> 00:02:27.008
+Then you could look at each cluster and try to figure out
+
+53
+00:02:27.008 --> 00:02:30.001
+what the customer is trying to communicate.
+
+54
+00:02:30.001 --> 00:02:32.008
+Maybe it's sarcasm, disappointment,
+
+55
+00:02:32.008 --> 00:02:35.005
+or a completely new idea.
+
+56
+00:02:35.005 --> 00:02:37.007
+This might work well if your organization
+
+57
+00:02:37.007 --> 00:02:41.001
+is involved with something completely new or unexpected.
+
+58
+00:02:41.001 --> 00:02:43.008
+Maybe a famous celebrity used your product,
+
+59
+00:02:43.008 --> 00:02:45.009
+or maybe there's a defect in your product
+
+60
+00:02:45.009 --> 00:02:48.008
+that hasn't been identified by your engineers.
+
+61
+00:02:48.008 --> 00:02:52.001
+So in some ways, an unsupervised machine learning system
+
+62
+00:02:52.001 --> 00:02:54.006
+has a lot more flexibility.
+
+63
+00:02:54.006 --> 00:02:58.006
+At the same time, this flexibility has a cost.
+
+64
+00:02:58.006 --> 00:03:02.004
+You might get what's called a lot of noise in your data.
+
+65
+00:03:02.004 --> 00:03:04.007
+That means that the system will probably find groups
+
+66
+00:03:04.007 --> 00:03:06.006
+that are difficult to identify.
+
+67
+00:03:06.006 --> 00:03:10.006
+Some of them may even appear randomly clustered together.
+
+68
+00:03:10.006 --> 00:03:12.009
+So if you're thinking about using this technology,
+
+69
+00:03:12.009 --> 00:03:14.009
+try to balance the flexibility
+
+70
+00:03:14.009 --> 00:03:16.009
+of unsupervised machine learning
+
+71
+00:03:16.009 --> 00:03:19.008
+against the clear classifications you get
+
+72
+00:03:19.008 --> 00:03:22.000
+from supervised machine learning.
