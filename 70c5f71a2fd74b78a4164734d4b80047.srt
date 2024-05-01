@@ -1,0 +1,285 @@
+WEBVTT
+
+1
+00:00:00.002 --> 00:00:01.006
+- [Instructor] Let's start looking at some tools
+
+2
+00:00:01.006 --> 00:00:05.000
+for Natural Language Generation or NLG.
+
+3
+00:00:05.000 --> 00:00:08.008
+We'll start out with an open source tool called SimpleNLG.
+
+4
+00:00:08.008 --> 00:00:10.004
+You could find it on GitHub.
+
+5
+00:00:10.004 --> 00:00:12.006
+Here, SimpleNLG.
+
+6
+00:00:12.006 --> 00:00:15.002
+You can see it's actively maintained.
+
+7
+00:00:15.002 --> 00:00:18.001
+This project was started by a university professor
+
+8
+00:00:18.001 --> 00:00:20.006
+named Ehud Reiter from the university
+
+9
+00:00:20.006 --> 00:00:22.002
+of Aberdeen in Scotland.
+
+10
+00:00:22.002 --> 00:00:24.006
+He later founded a company called Arria
+
+11
+00:00:24.006 --> 00:00:27.001
+which we'll see in a few minutes.
+
+12
+00:00:27.001 --> 00:00:30.000
+SimpleNLG is a realization engine
+
+13
+00:00:30.000 --> 00:00:32.004
+for Natural Language Generation.
+
+14
+00:00:32.004 --> 00:00:35.005
+It tries to produce natural sounding text.
+
+15
+00:00:35.005 --> 00:00:38.002
+To get started, you can just click on this tutorial here.
+
+16
+00:00:38.002 --> 00:00:40.007
+You can just click on Getting Started.
+
+17
+00:00:40.007 --> 00:00:43.003
+SimpleNLG is a Java library.
+
+18
+00:00:43.003 --> 00:00:44.009
+You can just download the zip file
+
+19
+00:00:44.009 --> 00:00:49.003
+and import it and can start using as Java class immediately.
+
+20
+00:00:49.003 --> 00:00:51.003
+Professor Reiter's blog is a pretty good source
+
+21
+00:00:51.003 --> 00:00:53.003
+of information on NLG.
+
+22
+00:00:53.003 --> 00:00:55.005
+It has a pretty imposing picture of him
+
+23
+00:00:55.005 --> 00:00:58.006
+and some great links to NLG resources.
+
+24
+00:00:58.006 --> 00:01:00.008
+He's also coauthored a book on NLG
+
+25
+00:01:00.008 --> 00:01:04.008
+called Building Natural Language Generation Systems.
+
+26
+00:01:04.008 --> 00:01:07.000
+This would be a great guide if you're a researcher
+
+27
+00:01:07.000 --> 00:01:08.008
+or a software developer looking to get
+
+28
+00:01:08.008 --> 00:01:11.003
+into natural language generation.
+
+29
+00:01:11.003 --> 00:01:14.000
+He also helped start a company called Arria,
+
+30
+00:01:14.000 --> 00:01:17.003
+which is one of the top commercial NLG platforms.
+
+31
+00:01:17.003 --> 00:01:20.003
+They have a product called NLG Studio,
+
+32
+00:01:20.003 --> 00:01:22.005
+so you can scroll down here.
+
+33
+00:01:22.005 --> 00:01:25.005
+Their focus is taking structured data that you might get
+
+34
+00:01:25.005 --> 00:01:27.009
+from a corporate database and then combining it
+
+35
+00:01:27.009 --> 00:01:29.007
+with natural language.
+
+36
+00:01:29.007 --> 00:01:31.003
+So that means you could take a nice chart
+
+37
+00:01:31.003 --> 00:01:33.001
+from Microsoft SQL Server
+
+38
+00:01:33.001 --> 00:01:36.002
+and then create natural language to describe the data.
+
+39
+00:01:36.002 --> 00:01:39.004
+There's a competing platform from Automated Insights,
+
+40
+00:01:39.004 --> 00:01:41.005
+which does something very similar.
+
+41
+00:01:41.005 --> 00:01:44.001
+They have a product called Wordsmith.
+
+42
+00:01:44.001 --> 00:01:46.003
+I'm just going to close this out here.
+
+43
+00:01:46.003 --> 00:01:48.009
+Wordsmith is really about creating stories
+
+44
+00:01:48.009 --> 00:01:52.000
+that sound like they were generated from a human author.
+
+45
+00:01:52.000 --> 00:01:55.002
+You can see here that the Automated Press uses Wordsmith.
+
+46
+00:01:55.002 --> 00:01:57.009
+Remember earlier, we had an example about using NLG
+
+47
+00:01:57.009 --> 00:02:00.005
+for updating corporate earnings reports.
+
+48
+00:02:00.005 --> 00:02:03.007
+That's one area where you can really use this product.
+
+49
+00:02:03.007 --> 00:02:07.000
+Like Arria, you can use this tool to add explanations
+
+50
+00:02:07.000 --> 00:02:09.004
+to structured data.
+
+51
+00:02:09.004 --> 00:02:12.006
+There's another company called Narrative Science.
+
+52
+00:02:12.006 --> 00:02:15.008
+This company is in Chicago and they started out using NLG
+
+53
+00:02:15.008 --> 00:02:18.006
+to create stories that summarize sporting events.
+
+54
+00:02:18.006 --> 00:02:21.000
+Since then they moved away from sports journalism
+
+55
+00:02:21.000 --> 00:02:23.005
+and more into corporate reporting.
+
+56
+00:02:23.005 --> 00:02:25.009
+Their main product is called Quill.
+
+57
+00:02:25.009 --> 00:02:28.001
+Much like the other NLG services,
+
+58
+00:02:28.001 --> 00:02:31.003
+it also focuses mostly on corporate dashboards
+
+59
+00:02:31.003 --> 00:02:34.001
+and reporting on structured data.
+
+60
+00:02:34.001 --> 00:02:37.005
+It uses NLG to explain complex data visualizations
+
+61
+00:02:37.005 --> 00:02:40.001
+to managers and executives.
+
+62
+00:02:40.001 --> 00:02:42.000
+So there are some of the great tools that you can use
+
+63
+00:02:42.000 --> 00:02:44.008
+when using NLG at your organization.
+
+64
+00:02:44.008 --> 00:02:47.002
+Each of these platforms has its own area
+
+65
+00:02:47.002 --> 00:02:48.007
+in which they excel.
+
+66
+00:02:48.007 --> 00:02:50.007
+Quill focuses more on readability
+
+67
+00:02:50.007 --> 00:02:52.005
+while the other two products try to focus more
+
+68
+00:02:52.005 --> 00:02:54.002
+on interpreting the data.
+
+69
+00:02:54.002 --> 00:02:55.009
+That means that one of these platforms
+
+70
+00:02:55.009 --> 00:02:58.000
+may work better than the other
+
+71
+00:02:58.000 --> 00:02:59.009
+based on your organization's needs.
