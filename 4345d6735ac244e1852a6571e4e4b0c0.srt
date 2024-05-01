@@ -1,0 +1,297 @@
+WEBVTT
+
+1
+00:00:00.008 --> 00:00:03.005
+- We've seen how artificial neural networks can crunch
+
+2
+00:00:03.005 --> 00:00:05.002
+enormous amounts of data
+
+3
+00:00:05.002 --> 00:00:06.008
+and because it's a network,
+
+4
+00:00:06.008 --> 00:00:09.008
+it doesn't operate the same way as one system.
+
+5
+00:00:09.008 --> 00:00:12.005
+It's usually not one giant computer.
+
+6
+00:00:12.005 --> 00:00:14.006
+Instead, it's a series of nodes
+
+7
+00:00:14.006 --> 00:00:17.002
+that work together to process data.
+
+8
+00:00:17.002 --> 00:00:20.005
+These nodes break the data into chunks,
+
+9
+00:00:20.005 --> 00:00:22.006
+then they make decisions about the data
+
+10
+00:00:22.006 --> 00:00:27.003
+and pass the information along to nodes in the next layer.
+
+11
+00:00:27.003 --> 00:00:29.007
+In many ways, the neural network reacts
+
+12
+00:00:29.007 --> 00:00:31.004
+to the data it's processing,
+
+13
+00:00:31.004 --> 00:00:33.007
+so it's not like a typical computer program.
+
+14
+00:00:33.007 --> 00:00:36.003
+It doesn't try to map out all the possibilities
+
+15
+00:00:36.003 --> 00:00:39.002
+and then follow a preprogrammed route;
+
+16
+00:00:39.002 --> 00:00:42.007
+instead, it reacts to the data in real time.
+
+17
+00:00:42.007 --> 00:00:44.008
+So artificial neural networks are different
+
+18
+00:00:44.008 --> 00:00:47.006
+from how most organizations think about computing,
+
+19
+00:00:47.006 --> 00:00:50.007
+and it might be hard to imagine how this technology
+
+20
+00:00:50.007 --> 00:00:53.002
+could work in your organization.
+
+21
+00:00:53.002 --> 00:00:55.006
+Before you set up your own neural network,
+
+22
+00:00:55.006 --> 00:00:57.008
+you may want to consider some of the best ways
+
+23
+00:00:57.008 --> 00:00:59.009
+to use this technology.
+
+24
+00:00:59.009 --> 00:01:01.005
+The first thing to keep in mind is
+
+25
+00:01:01.005 --> 00:01:04.007
+that neural networks learn by making mistakes.
+
+26
+00:01:04.007 --> 00:01:07.008
+It processes the data and then optimizes itself
+
+27
+00:01:07.008 --> 00:01:09.001
+in real time.
+
+28
+00:01:09.001 --> 00:01:10.005
+That means in the beginning,
+
+29
+00:01:10.005 --> 00:01:12.003
+your network might only be right
+
+30
+00:01:12.003 --> 00:01:14.003
+a small percentage of the time
+
+31
+00:01:14.003 --> 00:01:17.001
+but as your network learns, it will improve.
+
+32
+00:01:17.001 --> 00:01:19.008
+More and more often, it'll be correct.
+
+33
+00:01:19.008 --> 00:01:21.004
+That's why when you look at the results
+
+34
+00:01:21.004 --> 00:01:23.002
+of artificial neural networks,
+
+35
+00:01:23.002 --> 00:01:27.003
+it's typically displayed as a probability of being correct.
+
+36
+00:01:27.003 --> 00:01:30.001
+So if you look at something like facial recognition,
+
+37
+00:01:30.001 --> 00:01:31.004
+you'll notice that the neural network
+
+38
+00:01:31.004 --> 00:01:35.001
+will say something like, "This has a 98.6% chance
+
+39
+00:01:35.001 --> 00:01:38.002
+"of being a certain person."
+
+40
+00:01:38.002 --> 00:01:39.007
+So if you can handle a lot of mistakes
+
+41
+00:01:39.007 --> 00:01:41.001
+at the beginning of the process,
+
+42
+00:01:41.001 --> 00:01:42.009
+you could use these networks
+
+43
+00:01:42.009 --> 00:01:45.005
+to process your organization's data,
+
+44
+00:01:45.005 --> 00:01:49.002
+just be sure to focus on the strengths of this technology.
+
+45
+00:01:49.002 --> 00:01:51.002
+Artificial neural networks are great
+
+46
+00:01:51.002 --> 00:01:57.001
+for seeing associations or regularities in complex patterns.
+
+47
+00:01:57.001 --> 00:02:00.001
+This is especially true when you have a lot of diverse data
+
+48
+00:02:00.001 --> 00:02:03.000
+with patterns that are hard to recognize.
+
+49
+00:02:03.000 --> 00:02:04.001
+It can do really well
+
+50
+00:02:04.001 --> 00:02:07.003
+when humans don't understand these relationships
+
+51
+00:02:07.003 --> 00:02:10.006
+or they might be very difficult to describe.
+
+52
+00:02:10.006 --> 00:02:12.009
+So imagine you work for a retail organization
+
+53
+00:02:12.009 --> 00:02:15.000
+that owns shopping malls.
+
+54
+00:02:15.000 --> 00:02:17.000
+You want to look at the video footage of these malls
+
+55
+00:02:17.000 --> 00:02:20.008
+and see if you can find patterns in how people shop.
+
+56
+00:02:20.008 --> 00:02:23.007
+In this case, you have a very complex pattern.
+
+57
+00:02:23.007 --> 00:02:25.005
+You might have thousands of people
+
+58
+00:02:25.005 --> 00:02:27.006
+moving in various directions.
+
+59
+00:02:27.006 --> 00:02:30.001
+It's a diverse data set because there are many people
+
+60
+00:02:30.001 --> 00:02:31.008
+doing many different things.
+
+61
+00:02:31.008 --> 00:02:34.001
+No human could watch all this footage
+
+62
+00:02:34.001 --> 00:02:36.002
+and come up with a pattern,
+
+63
+00:02:36.002 --> 00:02:39.007
+but an artificial neural network can process all this data
+
+64
+00:02:39.007 --> 00:02:41.004
+and make recommendations
+
+65
+00:02:41.004 --> 00:02:43.003
+about where to put different stores.
+
+66
+00:02:43.003 --> 00:02:45.003
+The network could look for patterns,
+
+67
+00:02:45.003 --> 00:02:46.006
+then it could create visuals
+
+68
+00:02:46.006 --> 00:02:49.003
+that show the heaviest traffic areas.
+
+69
+00:02:49.003 --> 00:02:51.003
+So if you're thinking about using this technology,
+
+70
+00:02:51.003 --> 00:02:53.002
+keep these strengths in mind.
+
+71
+00:02:53.002 --> 00:02:54.008
+Remember that the machine will learn
+
+72
+00:02:54.008 --> 00:02:56.009
+as it processes the data.
+
+73
+00:02:56.009 --> 00:02:59.004
+So if you let it make a few mistakes in the beginning,
+
+74
+00:02:59.004 --> 00:03:02.004
+you can gain some real valuable insights.
