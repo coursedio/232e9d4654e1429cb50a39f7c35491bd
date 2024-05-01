@@ -1,0 +1,309 @@
+WEBVTT
+
+1
+00:00:00.003 --> 00:00:02.007
+- Virtual agents combined several different
+
+2
+00:00:02.007 --> 00:00:04.009
+artificial intelligence concepts.
+
+3
+00:00:04.009 --> 00:00:07.005
+Your agent needs to understand language
+
+4
+00:00:07.005 --> 00:00:09.005
+then the system needs to respond
+
+5
+00:00:09.005 --> 00:00:11.006
+in a way that seems natural.
+
+6
+00:00:11.006 --> 00:00:14.001
+It's really difficult to build your own system
+
+7
+00:00:14.001 --> 00:00:16.008
+that interacts with people in a natural way.
+
+8
+00:00:16.008 --> 00:00:20.000
+One system might be terrific at understanding language,
+
+9
+00:00:20.000 --> 00:00:23.000
+another might be pretty good at generating texts.
+
+10
+00:00:23.000 --> 00:00:25.001
+But it's a real challenge to have a system
+
+11
+00:00:25.001 --> 00:00:28.003
+that does both well at the same time.
+
+12
+00:00:28.003 --> 00:00:30.008
+That's why I'd be very difficult for you to build
+
+13
+00:00:30.008 --> 00:00:33.004
+your own virtual agent.
+
+14
+00:00:33.004 --> 00:00:36.003
+But on the upside, there are quite a few software companies
+
+15
+00:00:36.003 --> 00:00:39.001
+that sell their system as a service.
+
+16
+00:00:39.001 --> 00:00:41.002
+I have my computer here again,
+
+17
+00:00:41.002 --> 00:00:43.007
+and so let's see some of the top tools
+
+18
+00:00:43.007 --> 00:00:48.000
+for using virtual agents at your organization.
+
+19
+00:00:48.000 --> 00:00:50.007
+Virtual agents combine natural language processing,
+
+20
+00:00:50.007 --> 00:00:52.007
+natural language generation,
+
+21
+00:00:52.007 --> 00:00:55.003
+and automated decision making.
+
+22
+00:00:55.003 --> 00:00:57.009
+Let's look at one of the top virtual agents here.
+
+23
+00:00:57.009 --> 00:00:59.003
+If we go to Microsoft's website,
+
+24
+00:00:59.003 --> 00:01:02.006
+you can see that they have their own AI Chatbot.
+
+25
+00:01:02.006 --> 00:01:04.008
+Microsoft's Chatbot uses this gooey
+
+26
+00:01:04.008 --> 00:01:06.009
+to create a map of questions
+
+27
+00:01:06.009 --> 00:01:09.002
+and potential responses.
+
+28
+00:01:09.002 --> 00:01:11.004
+That means you don't have to use any coding
+
+29
+00:01:11.004 --> 00:01:13.002
+to create your own Chatbot.
+
+30
+00:01:13.002 --> 00:01:16.004
+It's really designed to be completely used as a service.
+
+31
+00:01:16.004 --> 00:01:18.003
+You can see here that you can buy the Chatbot
+
+32
+00:01:18.003 --> 00:01:21.001
+for a certain number of sessions.
+
+33
+00:01:21.001 --> 00:01:23.008
+Now, Microsoft also combines this Chatbot
+
+34
+00:01:23.008 --> 00:01:27.006
+with their dynamics 365 Customer Service.
+
+35
+00:01:27.006 --> 00:01:29.009
+So you can actually combine a virtual Chatbot
+
+36
+00:01:29.009 --> 00:01:32.000
+with customer service.
+
+37
+00:01:32.000 --> 00:01:34.004
+There's a flowchart style workflow that Microsoft
+
+38
+00:01:34.004 --> 00:01:37.004
+says it uses to create virtual agents quickly
+
+39
+00:01:37.004 --> 00:01:40.002
+and easily.
+
+40
+00:01:40.002 --> 00:01:43.001
+You can see that it connects up to a lot of other services
+
+41
+00:01:43.001 --> 00:01:46.008
+and the pricing is similar to just using the Chatbot.
+
+42
+00:01:46.008 --> 00:01:48.008
+There's also another service from a company
+
+43
+00:01:48.008 --> 00:01:52.000
+called Artificial Solutions.
+
+44
+00:01:52.000 --> 00:01:54.007
+They have a platform called Teneo.
+
+45
+00:01:54.007 --> 00:01:57.003
+This platform uses a series of algorithms
+
+46
+00:01:57.003 --> 00:02:02.001
+to do something that they call natural language interaction.
+
+47
+00:02:02.001 --> 00:02:03.009
+Much like Microsoft service,
+
+48
+00:02:03.009 --> 00:02:06.006
+it doesn't really require a lot of software development
+
+49
+00:02:06.006 --> 00:02:08.006
+in a similar graphics tools that allow you
+
+50
+00:02:08.006 --> 00:02:11.004
+to build your own conversations.
+
+51
+00:02:11.004 --> 00:02:14.008
+There's another company called DigitalWorkforce.ai,
+
+52
+00:02:14.008 --> 00:02:17.005
+and they have a slightly different take than Microsoft
+
+53
+00:02:17.005 --> 00:02:19.004
+or Artificial Solutions.
+
+54
+00:02:19.004 --> 00:02:22.008
+Instead of focusing on building out Chatbots,
+
+55
+00:02:22.008 --> 00:02:26.006
+this company wants you to hire their digital assistant.
+
+56
+00:02:26.006 --> 00:02:28.009
+They have a nice little demonstration on their website
+
+57
+00:02:28.009 --> 00:02:33.007
+of their top digital employee which they call Amelia.
+
+58
+00:02:33.007 --> 00:02:35.009
+This demonstration assumes that you're an employee
+
+59
+00:02:35.009 --> 00:02:37.005
+named John Smith,
+
+60
+00:02:37.005 --> 00:02:39.001
+so he can ask a simple question
+
+61
+00:02:39.001 --> 00:02:42.003
+like I need to reset my password.
+
+62
+00:02:42.003 --> 00:02:44.006
+Then Amelia will ask for some more information.
+
+63
+00:02:44.006 --> 00:02:46.009
+In this case, your employee ID.
+
+64
+00:02:46.009 --> 00:02:50.002
+We'll just put in an employee ID for John Smith here,
+
+65
+00:02:50.002 --> 00:02:54.001
+and then she'll ask for a verification.
+
+66
+00:02:54.001 --> 00:02:57.002
+She'll pretty much act just like a human chat person,
+
+67
+00:02:57.002 --> 00:02:59.000
+except this will all be automated
+
+68
+00:02:59.000 --> 00:03:00.005
+and in real time.
+
+69
+00:03:00.005 --> 00:03:02.007
+Because she has access to the backend data,
+
+70
+00:03:02.007 --> 00:03:06.000
+she can also do some real time automated decision-making.
+
+71
+00:03:06.000 --> 00:03:08.006
+Here she resets your password.
+
+72
+00:03:08.006 --> 00:03:11.005
+When you're done, you can just hit the reset button there
+
+73
+00:03:11.005 --> 00:03:13.007
+and then Amelia will go right back
+
+74
+00:03:13.007 --> 00:03:15.009
+to asking you other questions.
+
+75
+00:03:15.009 --> 00:03:17.005
+So this is kind of a nice little demonstration here
+
+76
+00:03:17.005 --> 00:03:19.009
+of how you can hire a virtual Chatbot
+
+77
+00:03:19.009 --> 00:03:22.007
+to do some simple administrative tasks.
