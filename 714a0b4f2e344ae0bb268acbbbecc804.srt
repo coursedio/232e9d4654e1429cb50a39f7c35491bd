@@ -1,0 +1,237 @@
+WEBVTT
+
+1
+00:00:00.006 --> 00:00:03.006
+- Automated decision making systems can do a lot of things
+
+2
+00:00:03.006 --> 00:00:06.004
+better than human customer service agents.
+
+3
+00:00:06.004 --> 00:00:08.006
+They can simply look at more data sources
+
+4
+00:00:08.006 --> 00:00:12.002
+and make more decisions in a shorter period of time.
+
+5
+00:00:12.002 --> 00:00:14.000
+But if you're thinking about using these tools,
+
+6
+00:00:14.000 --> 00:00:17.006
+you should actually think about it as supplementing agents
+
+7
+00:00:17.006 --> 00:00:19.008
+instead of replacing them.
+
+8
+00:00:19.008 --> 00:00:22.006
+In your organization there are generally two types
+
+9
+00:00:22.006 --> 00:00:24.005
+of decisions that you need to make.
+
+10
+00:00:24.005 --> 00:00:29.006
+There are analytical decisions and intuitive decisions.
+
+11
+00:00:29.006 --> 00:00:32.007
+Analytical decisions follow predictable patterns.
+
+12
+00:00:32.007 --> 00:00:36.007
+They usually involve a lot of data and statistical analysis.
+
+13
+00:00:36.007 --> 00:00:39.009
+So with a canceled flight, an AI system can use data
+
+14
+00:00:39.009 --> 00:00:42.003
+about the airport, the flight schedule,
+
+15
+00:00:42.003 --> 00:00:44.003
+and even the weather service.
+
+16
+00:00:44.003 --> 00:00:46.005
+Then it makes an analytical decision
+
+17
+00:00:46.005 --> 00:00:49.002
+about how to rebook your flight.
+
+18
+00:00:49.002 --> 00:00:51.007
+But sometimes businesses are forced to make decisions
+
+19
+00:00:51.007 --> 00:00:54.009
+about things that have never happened.
+
+20
+00:00:54.009 --> 00:00:56.009
+So if you think about March 2020,
+
+21
+00:00:56.009 --> 00:00:59.006
+many of the airlines were forced to shut down,
+
+22
+00:00:59.006 --> 00:01:03.005
+not because of weather, but because of a global pandemic.
+
+23
+00:01:03.005 --> 00:01:05.006
+Airlines had never had to shut down before
+
+24
+00:01:05.006 --> 00:01:09.008
+because of a pandemic, so there was no preexisting data.
+
+25
+00:01:09.008 --> 00:01:13.004
+As a result, many of the AI systems didn't work well
+
+26
+00:01:13.004 --> 00:01:14.009
+in the crisis.
+
+27
+00:01:14.009 --> 00:01:17.005
+Instead, many of the problems had to be fixed
+
+28
+00:01:17.005 --> 00:01:19.009
+by human customer service agents.
+
+29
+00:01:19.009 --> 00:01:23.002
+This was a much slower and much more complicated,
+
+30
+00:01:23.002 --> 00:01:26.001
+intuitive decision making process.
+
+31
+00:01:26.001 --> 00:01:28.000
+That's because each of these agents
+
+32
+00:01:28.000 --> 00:01:32.009
+had used their own human intuition to solve problems.
+
+33
+00:01:32.009 --> 00:01:34.007
+So you should think of it this way,
+
+34
+00:01:34.007 --> 00:01:38.009
+AI systems do extremely well when there's little uncertainty
+
+35
+00:01:38.009 --> 00:01:42.002
+and the system can rely on historical data.
+
+36
+00:01:42.002 --> 00:01:44.006
+Human customer service agents do well
+
+37
+00:01:44.006 --> 00:01:47.007
+when the problem is something that hasn't happened before.
+
+38
+00:01:47.007 --> 00:01:52.001
+Then the agent has to think intuitively about a solution.
+
+39
+00:01:52.001 --> 00:01:53.003
+So if you're thinking about using
+
+40
+00:01:53.003 --> 00:01:55.009
+AI automated decision making systems,
+
+41
+00:01:55.009 --> 00:01:58.005
+you should balance the two ways that your organization
+
+42
+00:01:58.005 --> 00:02:00.004
+has to make decisions.
+
+43
+00:02:00.004 --> 00:02:02.004
+If there's a lot of unpredictability,
+
+44
+00:02:02.004 --> 00:02:05.007
+then you'd be better served by giving human decision makers,
+
+45
+00:02:05.007 --> 00:02:07.002
+the tools that they need.
+
+46
+00:02:07.002 --> 00:02:09.009
+They can use these tools to address challenges
+
+47
+00:02:09.009 --> 00:02:11.008
+much more quickly.
+
+48
+00:02:11.008 --> 00:02:14.000
+On the other hand, a more analytical
+
+49
+00:02:14.000 --> 00:02:16.006
+AI automated decision making system
+
+50
+00:02:16.006 --> 00:02:19.005
+will do well if you have a lot of historical data.
+
+51
+00:02:19.005 --> 00:02:23.002
+Then you can focus on a system that reacts quickly.
+
+52
+00:02:23.002 --> 00:02:26.006
+So a parcel delivery service like UPS or FedEx
+
+53
+00:02:26.006 --> 00:02:28.008
+could really benefit from an automated
+
+54
+00:02:28.008 --> 00:02:30.004
+decision making system.
+
+55
+00:02:30.004 --> 00:02:33.002
+They have massive amounts of data on delivery times
+
+56
+00:02:33.002 --> 00:02:36.000
+and perhaps even alternative routes.
+
+57
+00:02:36.000 --> 00:02:39.001
+But if your business is in retail or hospitality,
+
+58
+00:02:39.001 --> 00:02:40.003
+then you might be better off
+
+59
+00:02:40.003 --> 00:02:44.007
+having some more intuitive human customer service agents.
